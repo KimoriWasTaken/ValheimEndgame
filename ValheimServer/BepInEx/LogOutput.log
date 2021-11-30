@@ -1,0 +1,1001 @@
+[Message:   BepInEx] BepInEx 5.4.16.0 - valheim_server (11/27/2021 18:11:45)
+[Info   :   BepInEx] Running under Unity vUnknown (post-2017)
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Linux
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.16.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Info   :   BepInEx] Detected Unity version: v2019.4.31f1
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 19 plugins to load
+[Warning:   BepInEx] Skipping [Use Equipment in Water 0.2.2.0] because of process filters (valheim.exe, valheim.x86_64)
+[Warning:   BepInEx] Skipping [Valheim Diving Mod 1.2.2] because of process filters (valheim.exe)
+[Info   :   BepInEx] Loading [Valheim Configuration Manager 0.5.0]
+[Info   :   BepInEx] Loading [Discard or Recycle Inventory Items 0.7.0]
+[Info   :   BepInEx] Loading [Sell That! 1.2.0]
+[Info   :Sell That!] Loading configurations...
+[Info   :Sell That!] Configurations loaded.
+[Info   :   BepInEx] Loading [Jotunn 2.4.1]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Jötunn v2.4.1 loaded successfully
+[Info   :   BepInEx] Loading [PotionsPlus 3.0.2]
+[Info   :   BepInEx] Loading [Clutter 0.1.0]
+[Info   :   BepInEx] Loading [AtosArrowsJVL 1.0.0]
+[Info   :AtosArrowsJVL.AtosArrows] AtosArrows.Awake()
+[Info   :AtosArrowsJVL.AtosArrows] AtosArrows.RegisterObjects()
+[Info   :   BepInEx] Loading [JudesEquipment 1.4.0]
+[Info   :   BepInEx] Loading [Hugo's Armory 5.0.1]
+[Warning:Hugo's Armory] Failed to find '/home/container/BepInEx/config/htd.armory_itemdata.cfg' will create config of same name with default values.
+[Warning:Hugo's Armory] Failed to find '/home/container/BepInEx/config/htd.armory_recipeData.cfg' will create config of same name with default values.
+[Warning:Hugo's Armory] Failed to find 'htd.armory_localization'/.cfg in path '/home/container/BepInEx/config/htd.armory' will create config of same name with default values.
+[Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.5]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.0.14]
+[Info   :   BepInEx] Loading [JotunnBackpacks 2.0.0]
+[Info   :JotunnBackpacks.BackpackAssets] Embedded resources: JotunnBackpacks.AssetsEmbedded.eviesbackpacks
+[Info   :   BepInEx] Loading [Speedy Paths Mod 1.0.5]
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Initialized Server Authoritative Config Manager.
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+SpeedyPaths.SpeedyPathsClientMod.Awake () (at <5267be96fa0b46fd995d77ac1dfc5298>:0)
+UnityEngine.GameObject:AddComponent(Type)
+BepInEx.Bootstrap.Chainloader:Start()
+UnityEngine.Application:.cctor()
+
+[Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.5]
+[Info   : Unity Log] 11/30/2021 18:22:14: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 11/30/2021 18:22:14: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 11/30/2021 18:22:14: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 11/30/2021 18:22:14: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 11/30/2021 18:22:14: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 11/30/2021 18:22:14: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Loading key enterAdvancedBuildingMode
+[Info   : Unity Log]  Loading key exitAdvancedBuildingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log]  Loading key increaseScrollSpeed
+[Info   : Unity Log]  Loading key decreaseScrollSpeed
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Loading key enterAdvancedEditingMode
+[Info   : Unity Log]  Loading key resetAdvancedEditingMode
+[Info   : Unity Log]  Loading key abortAndExitAdvancedEditingMode
+[Info   : Unity Log]  Loading key confirmPlacementOfAdvancedEditingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log]  Loading key increaseScrollSpeed
+[Info   : Unity Log]  Loading key decreaseScrollSpeed
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Loading key sleepWithoutSpawn
+[Info   : Unity Log]  Loading key unclaimedBedsOnly
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Loading key noTeleportPrevention
+[Info   : Unity Log]  Loading key baseItemWeightReduction
+[Info   : Unity Log]  Loading key itemStackMultiplier
+[Info   : Unity Log]  Loading key droppedItemOnGroundDurationInSeconds
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Loading key torches
+[Info   : Unity Log]  Loading key fires
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Loading key foodDurationMultiplier
+[Info   : Unity Log]  Loading key disableFoodDegradation
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log]  Loading key allowAllOres
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Loading key maximumBarley
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key ignoreWindIntensity
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Loading key maximumFlax
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log]  Loading key shareablePins
+[Info   : Unity Log]  Loading key shareAllPins
+[Info   : Unity Log]  Loading key displayCartsAndBoats
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Loading key dodgeStaminaUsage
+[Info   : Unity Log]  Loading key encumberedStaminaDrain
+[Info   : Unity Log]  Loading key jumpStaminaDrain
+[Info   : Unity Log]  Loading key runStaminaDrain
+[Info   : Unity Log]  Loading key sneakStaminaDrain
+[Info   : Unity Log]  Loading key staminaRegen
+[Info   : Unity Log]  Loading key staminaRegenDelay
+[Info   : Unity Log]  Loading key swimStaminaDrain
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key workbenchEnemySpawnRange
+[Info   : Unity Log]  Loading key workbenchAttachmentRange
+[Info   : Unity Log]  Loading key disableRoofCheck
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Loading key wardRange
+[Info   : Unity Log]  Loading key wardEnemySpawnRange
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key iron
+[Info   : Unity Log]  Loading key hardWood
+[Info   : Unity Log]  Loading key disableStructuralIntegrity
+[Info   : Unity Log]  Loading key disableDamageToPlayerStructures
+[Info   : Unity Log]  Loading key disableDamageToPlayerBoats
+[Info   : Unity Log]  Loading key disableWaterDamageToPlayerBoats
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Loading key mortality
+[Info   : Unity Log]  Loading key ownerDamageOverride
+[Info   : Unity Log]  Loading key stunRecoveryTime
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Loading key swords
+[Info   : Unity Log]  Loading key knives
+[Info   : Unity Log]  Loading key clubs
+[Info   : Unity Log]  Loading key polearms
+[Info   : Unity Log]  Loading key spears
+[Info   : Unity Log]  Loading key blocking
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key fireMagic
+[Info   : Unity Log]  Loading key frostMagic
+[Info   : Unity Log]  Loading key unarmed
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key woodCutting
+[Info   : Unity Log]  Loading key jump
+[Info   : Unity Log]  Loading key sneak
+[Info   : Unity Log]  Loading key run
+[Info   : Unity Log]  Loading key swim
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Loading key wagonExtraMassFromItems
+[Info   : Unity Log]  Loading key wagonBaseMass
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Loading key wood
+[Info   : Unity Log]  Loading key stone
+[Info   : Unity Log]  Loading key fineWood
+[Info   : Unity Log]  Loading key coreWood
+[Info   : Unity Log]  Loading key elderBark
+[Info   : Unity Log]  Loading key ironScrap
+[Info   : Unity Log]  Loading key tinOre
+[Info   : Unity Log]  Loading key copperOre
+[Info   : Unity Log]  Loading key silverOre
+[Info   : Unity Log]  Loading key chitin
+[Info   : Unity Log]  Loading key dropChance
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Loading key hotkey
+[Info   : Unity Log]  Loading key raiseFOVHotkey
+[Info   : Unity Log]  Loading key defaultFOV
+[Info   : Unity Log]  Loading key lowerFOVHotkey
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Loading key align
+[Info   : Unity Log]  Loading key alignToggle
+[Info   : Unity Log]  Loading key changeDefaultAlignment
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Loading key playerMinChargeVelocityMultiplier
+[Info   : Unity Log]  Loading key playerMaxChargeVelocityMultiplier
+[Info   : Unity Log]  Loading key playerMinChargeAccuracyMultiplier
+[Info   : Unity Log]  Loading key playerMaxChargeAccuracyMultiplier
+[Info   : Unity Log]  Loading key enableScaleWithSkillLevel
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   : Unity Log] 11/30/2021 18:22:17: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
+[Info   :Valheim Plus] ValheimPlus [0.9.9] is up to date.
+[Info   :   BepInEx] Loading [Epic Loot 0.8.7]
+[Info   :   BepInEx] Loading [ValheimLegends 0.4.2]
+[Info   : Unity Log] 11/30/2021 18:22:23: Valheim Legends attempting to find VLAssets in the directory with /home/container/BepInEx/plugins/ValheimLegends/ValheimLegends.dll
+
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 11/30/2021 18:22:25: Starting to load scene:start
+
+[Info   : Unity Log] ConfigurationManager Searching for vanilla Config Manager.
+[Info   : Unity Log] ConfigurationManager Vanilla Config Manager not found.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning:JudesEquipment] Blacksmith's tools not found.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:23:07: Valheim version:0.205.5@0.9.9
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 11/30/2021 18:23:07: Render threading mode:SingleThreaded
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:23:07: Get create world commonhoe
+
+[Info   : Unity Log] 11/30/2021 18:23:07: Using environment steamid 892970
+
+[Info   : Unity Log] 11/30/2021 18:23:07: Using steam APPID:892970
+
+[Info   : Unity Log] 11/30/2021 18:23:07: Server ID 90071992547409920
+
+[Info   : Unity Log] 11/30/2021 18:23:07: Authentication:k_ESteamNetworkingAvailability_Waiting
+
+[Info   : Unity Log] 11/30/2021 18:23:07: Steam game server initialized
+
+[Warning: Unity Log] 11/30/2021 18:23:07: Missing audio clip in music respawn
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 11/30/2021 18:23:09: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 11/30/2021 18:23:09: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   :Jotunn.Managers.ItemManager] Adding 42 custom items to the ObjectDB
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   : Unity Log] 11/30/2021 18:23:09: Game server connected
+
+[Info   : Unity Log] 11/30/2021 18:23:09: UI Group status changed Menu = True
+
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Warning: Unity Log] HDR Render Texture not supported, disabling HDR on reflection probe.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 11/30/2021 18:23:10: Zonesystem Awake 8
+
+[Info   : Unity Log] 11/30/2021 18:23:10: DungeonDB Awake 8
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:23:10: Registering lobby
+
+[Info   : Unity Log] Registered 'htd.armory ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 178 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 42 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 37 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 2 custom status effects to the ObjectDB
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
+[Info   :Jotunn.Managers.PieceManager] Adding 135 custom pieces to the PieceTables
+[Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
+[Info   : Unity Log] 11/30/2021 18:23:15: Audioman already exist, destroying self
+
+[Info   : Unity Log] 11/30/2021 18:23:15: Loaded 195665 map points from disk.
+
+[Info   : Unity Log] Pin Name loaded properly
+[Info   : Unity Log] Dropdown loaded properly
+[Info   : Unity Log] Share pin loaded properly
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   : Unity Log] 11/30/2021 18:23:21: Zonesystem Start 8
+
+[Info   : Unity Log] 11/30/2021 18:23:22: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+
+[Info   :Jotunn.Managers.ZoneManager] Injecting custom locations
+[Info   :Jotunn.Managers.ZoneManager] Injecting custom vegetation
+[Info   : Unity Log] 11/30/2021 18:23:22: DungeonDB Start 8
+
+[Info   : Unity Log] 11/30/2021 18:23:22: Load world commonhoe
+
+[Info   : Unity Log] 11/30/2021 18:23:22: Loading 441495 zdos , my id -639226858 data version:28
+
+[Info   : Unity Log] 11/30/2021 18:23:25: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 11/30/2021 18:23:25: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 11/30/2021 18:23:25: Loaded 7290 locations
+
+[Info   : Unity Log] 11/30/2021 18:28:58: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/30/2021 18:28:58: New connection
+
+[Info   : Unity Log] 11/30/2021 18:28:58: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/30/2021 18:28:58: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/30/2021 18:28:58: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/30/2021 18:28:58: Connected
+
+[Info   : Unity Log] 11/30/2021 18:28:58: Got connection SteamID 76561198078968544
+
+[Info   : Unity Log] 11/30/2021 18:28:59: Got handshake from client 76561198078968544
+
+[Info   : Unity Log] [Sell That!]: Received request for configs.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:29:18: VERSION check their:0.205.5@0.9.9  mine:0.205.5@0.9.9
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:29:18: Server: New peer connected,sending global keys
+
+[Info   :Jotunn.Managers.SynchronizationManager] Sending initial data to peer #-242210855
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sent 55 config pairs to client -242210855
+[Info   : Unity Log] 11/30/2021 18:29:22: VPlus configuration synced to peer #-242210855
+
+[Info   : Unity Log] 11/30/2021 18:29:22: Valheim Legends server configurations synced to peer #-242210855
+
+[Info   : Unity Log] 11/30/2021 18:29:40: Got character ZDOID from Tomson : -242210855:1
+
+[Info   : Unity Log] 11/30/2021 18:29:40: Received 1736 map ranges from peer #-242210855.
+
+[Info   : Unity Log] 11/30/2021 18:29:40: -------------------------- Packages: 1
+
+[Info   : Unity Log] 11/30/2021 18:29:40: Sent map updates to all clients (1736 map ranges, 1 chunks)
+
+[Info   : Unity Log] 11/30/2021 18:33:28:  Connections 1 ZDOS:441496  sent:0 recv:215
+
+[Info   : Unity Log] 11/30/2021 18:34:04: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/30/2021 18:34:04: New connection
+
+[Info   : Unity Log] 11/30/2021 18:34:04: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/30/2021 18:34:04: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/30/2021 18:34:04: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/30/2021 18:34:04: Connected
+
+[Info   : Unity Log] 11/30/2021 18:34:04: Got connection SteamID 76561198124042253
+
+[Info   : Unity Log] 11/30/2021 18:34:06: Got handshake from client 76561198124042253
+
+[Info   : Unity Log] [Sell That!]: Received request for configs.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:34:19: VERSION check their:0.205.5@0.9.9  mine:0.205.5@0.9.9
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:34:19: Server: New peer connected,sending global keys
+
+[Info   :Jotunn.Managers.SynchronizationManager] Sending initial data to peer #230880239
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sent 55 config pairs to client 230880239
+[Info   : Unity Log] 11/30/2021 18:34:22: VPlus configuration synced to peer #230880239
+
+[Info   : Unity Log] 11/30/2021 18:34:22: Valheim Legends server configurations synced to peer #230880239
+
+[Info   : Unity Log] 11/30/2021 18:34:37: Got character ZDOID from Lambosson : 230880239:1
+
+[Info   : Unity Log] 11/30/2021 18:34:37: Received 1699 map ranges from peer #230880239.
+
+[Info   : Unity Log] 11/30/2021 18:34:37: -------------------------- Packages: 1
+
+[Info   : Unity Log] 11/30/2021 18:34:37: Sent map updates to all clients (1736 map ranges, 1 chunks)
+
+[Info   : Unity Log] 11/30/2021 18:36:55: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/30/2021 18:36:55: New connection
+
+[Info   : Unity Log] 11/30/2021 18:36:55: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/30/2021 18:36:55: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/30/2021 18:36:55: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/30/2021 18:36:55: Connected
+
+[Info   : Unity Log] 11/30/2021 18:36:55: Got connection SteamID 76561198147097972
+
+[Info   : Unity Log] 11/30/2021 18:36:57: Got handshake from client 76561198147097972
+
+[Info   : Unity Log] [Sell That!]: Received request for configs.
+[Info   : Unity Log] 11/30/2021 18:37:30: RPC_Disconnect 
+
+[Info   : Unity Log] 11/30/2021 18:37:30: Disposing socket
+
+[Info   : Unity Log] 11/30/2021 18:37:30: Closing socket 76561198147097972
+
+[Info   : Unity Log] 11/30/2021 18:37:30:   send queue size:0
+
+[Info   : Unity Log] 11/30/2021 18:37:30: Disposing socket
+
+[Info   : Unity Log] 11/30/2021 18:37:30: Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+
+[Info   : Unity Log] 11/30/2021 18:37:30: Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+
+[Info   : Unity Log] 11/30/2021 18:37:30: Got status changed msg k_ESteamNetworkingConnectionState_None
+
+[Info   : Unity Log] 11/30/2021 18:39:35: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/30/2021 18:39:35: New connection
+
+[Info   : Unity Log] 11/30/2021 18:39:35: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/30/2021 18:39:35: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/30/2021 18:39:35: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/30/2021 18:39:35: Connected
+
+[Info   : Unity Log] 11/30/2021 18:39:35: Got connection SteamID 76561198125946486
+
+[Info   : Unity Log] 11/30/2021 18:39:37: Got handshake from client 76561198125946486
+
+[Info   : Unity Log] [Sell That!]: Received request for configs.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:39:44: VERSION check their:0.205.5@0.9.9  mine:0.205.5@0.9.9
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:39:44: Server: New peer connected,sending global keys
+
+[Info   :Jotunn.Managers.SynchronizationManager] Sending initial data to peer #3432464925
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sent 55 config pairs to client 3432464925
+[Info   : Unity Log] 11/30/2021 18:39:47: VPlus configuration synced to peer #3432464925
+
+[Info   : Unity Log] 11/30/2021 18:39:47: Valheim Legends server configurations synced to peer #3432464925
+
+[Info   : Unity Log] 11/30/2021 18:40:02: Got character ZDOID from Harunson : 3432464925:1
+
+[Info   : Unity Log] 11/30/2021 18:40:02: Received 787 map ranges from peer #3432464925.
+
+[Info   : Unity Log] 11/30/2021 18:40:02: -------------------------- Packages: 1
+
+[Info   : Unity Log] 11/30/2021 18:40:02: Sent map updates to all clients (1736 map ranges, 1 chunks)
+
+[Info   : Unity Log] 11/30/2021 18:41:36: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 11/30/2021 18:41:36: New connection
+
+[Info   : Unity Log] 11/30/2021 18:41:36: Accepting connection k_EResultOK
+
+[Info   : Unity Log] 11/30/2021 18:41:36: Connecting to Steamworks.SteamNetworkingIdentity
+
+[Info   : Unity Log] 11/30/2021 18:41:36: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 11/30/2021 18:41:36: Connected
+
+[Info   : Unity Log] 11/30/2021 18:41:36: Got connection SteamID 76561198147097972
+
+[Info   : Unity Log] 11/30/2021 18:41:38: Got handshake from client 76561198147097972
+
+[Info   : Unity Log] [Sell That!]: Received request for configs.
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:41:42: VERSION check their:0.205.5@0.9.9  mine:0.205.5@0.9.9
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.205.5@0.9.9
+[Info   : Unity Log] 11/30/2021 18:41:42: Server: New peer connected,sending global keys
+
+[Info   :Jotunn.Managers.SynchronizationManager] Sending initial data to peer #-245256855
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.BuffIcon +2: 1.39
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -1: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Hud.DebuffIcon -2: 0.79
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.DirtPathSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StonePathSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.CultivatedSpeed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureHardWoodSpeed: 1.15
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureStoneSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers.StructureIronSpeed: 1.4
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.DirtPathStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StonePathStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.CultivatedStamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureHardWoodStamina: 0.8
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureStoneStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers.StructureIronStamina: 0.7
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_None_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_None_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_None: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Meadows_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Meadows_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Meadows: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Swamp_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Swamp_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Swamp: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mountain_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mountain_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mountain: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_BlackForest_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_BlackForest_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_BlackForest: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Plains_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Plains_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Plains: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_AshLands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_AshLands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_AshLands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_DeepNorth_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_DeepNorth_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_DeepNorth: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Ocean_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Ocean_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Ocean: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config SpeedModifiers_Biomes.Untamed_Mistlands_Speed: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config StaminaModifiers_Biomes.Untamed_Mistlands_Stamina: 1
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Biome_Mistlands: default
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathDirt: Dirt Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.PathStone: Stone Path
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.Cultivated: Cultivated
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureWood: Wood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureHardWood: Hardwood
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureStone: Stone
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sending Config Strings.StructureIron: Iron
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Sent 55 config pairs to client -245256855
+[Info   : Unity Log] 11/30/2021 18:41:45: VPlus configuration synced to peer #-245256855
+
+[Info   : Unity Log] 11/30/2021 18:41:45: Valheim Legends server configurations synced to peer #-245256855
+
+[Info   : Unity Log] 11/30/2021 18:42:01: Got character ZDOID from Salamiracer : -245256855:1
+
+[Info   : Unity Log] 11/30/2021 18:42:01: Received 1736 map ranges from peer #-245256855.
+
+[Info   : Unity Log] 11/30/2021 18:42:01: -------------------------- Packages: 1
+
+[Info   : Unity Log] 11/30/2021 18:42:01: Sent map updates to all clients (1736 map ranges, 1 chunks)
+
+[Info   : Unity Log] 11/30/2021 18:43:35:  Connections 4 ZDOS:441514  sent:179 recv:417
+
+[Info   : Unity Log] 11/30/2021 18:43:38: clone 1523
+
+[Info   : Unity Log] 11/30/2021 18:53:37:  Connections 4 ZDOS:441486  sent:91 recv:277
+
