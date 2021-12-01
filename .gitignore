@@ -1,2 +1,11 @@
 *.rar
+*.exe
 PatchFromLastVersion/
+MonoBleedingEdge/
+valheim_Data/
+cache/
+vplus-data/
+steam_appid.txt
+UnityPlayer.dll
+LogOutput.log
+BepInEx.cfg
