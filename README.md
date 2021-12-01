@@ -3,7 +3,10 @@ A heavily modded Valheim repo for Clients and Servers running `v0.205.5`. Redisc
 
 ## For the best experience we recommend:
 - Create a new Character and a new World for the whole experience
-- Add steam launch options: `-window-mode exclusive -screen-fullscreen`
+- Steam Properties:
+   - Disable Steam Overlay
+   - Launch Options: `-window-mode exclusive -screen-fullscreen`
+   - Press Alt+Enter twice after opening Valheim
 - Add `gfx-enable-jobs=1` and `gfx-enable-native-gfx-jobs=1` in valheim_Data\boot.config
 - HD Texture Pack for Clients NOT the Server: https://www.nexusmods.com/valheim/mods/302
 - Do NOT use VulcanAPI
