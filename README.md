@@ -3,14 +3,14 @@ A heavily modded Valheim repo for Clients and Servers. Rediscover Valheim and em
 
 ## For the best experience we recommend:
 - Launch Options: -window-mode exclusive -screen-fullscreen
-- Add "gfx-enable-jobs=1" and "gfx-enable-native-gfx-jobs=1" in valheim_Data/boot.config
+- Add "gfx-enable-jobs=1" and "gfx-enable-native-gfx-jobs=1" in valheim_Data\boot.config
 - Do NOT use vulcan api
 - HD Texture Pack: https://www.nexusmods.com/valheim/mods/302
 - And an updated Version of a Networking Mod to fix desyncs
 
 ## To suit your taste
 Have a lot of trolls on the server and want to save your own items:
-- Valheim\BepInEx\config
+- Valheim\BepInEx\config\valheim_plus.cfg
    - Disable Ward section
 
 Feel like it's too hard:
