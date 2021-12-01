@@ -26,7 +26,7 @@ Feel like it's too hard:
 ## How to install:
 - Navigate to your Steam Library
 - Right click Valheim -> Manage -> Browse Local files and leave the folder open
-- Grab the latest version for your Client or your Server here: https://github.com/KimoriWasTaken/ValheimEndgame/releases
+- Grab the latest version for your Client or your Server here: https://github.com/KimoriWasTaken/ValheimEndgame/releases/latest
 - Download, save and extract it with [winrar](https://www.win-rar.com/download.html)
 - Open the extracted folder
 - Now copy all the contents of that folder into the prior opened Valheim folder
