@@ -3,8 +3,10 @@ A heavily modded Valheim repo for Clients and Servers. Rediscover Valheim and em
 
 For the best experience we recommend:
 - Launch Options: -window-mode exclusive -screen-fullscreen
+- Add "gfx-enable-jobs=1" and "gfx-enable-native-gfx-jobs=1" in valheim_Data/boot.config
+- Do NOT use vulcan api
 - HD Texture Pack: https://www.nexusmods.com/valheim/mods/302
-- And updated Version for Networking to fix desyncs
+- And an updated Version of a Networking Mod to fix desyncs
 
 Have a lot of trolls on the server and want to save your own items:
 - Valheim\BepInEx\config
@@ -14,12 +16,26 @@ Feel like it's too hard:
 - ValheimClient\BepInEx\config\org.bepinex.plugins.creaturelevelcontrol.cfg
 - Adjust Difficulty and/or DMG and HP per Star
 
-Mods Included:
+To-Do List:
+- Fix Desyncs
+- Optimize Valheim Legends balancing
+- Add Backpacks to the Loottable
+- Optimize Boss difficulty
+- Serpent isn't scary enough
+- More server side cleanups
+
+Known Issues:
+- Dying seems to decrease performance and spams an error that is being investigated
+- EpicLoot seems to push you into Tier3 (iron) loot seemingly at random
+- Monk needs 400 stamina for his flying kick sometimes
+
+Mods Included, configured and balanced:
 - Atos Arrows
 - BepInEx
+- Blacksmith Tools
 - Clutter
 - Creature Level and Loot Control
-- Discard Inventory
+- Discard Inventory Item
 - Diving Mod
 - Easy Translate
 - Epic Loot
@@ -32,6 +48,6 @@ Mods Included:
 - Potions Plus
 - Sell That
 - Speedy Paths
-- Use Eqipment in Water
+- Use Equipment in Water
 - Valheim Legends
 - Valheim Plus
