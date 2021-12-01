@@ -26,6 +26,7 @@ Feel like it's too hard:
    - Either boats get oneshot or they are indestructable...
 - Add another Endgame difficulty spike
    - Equipment is there, just need to add more stars
+- Cleanup unedited cfg's so clients/servers generate their own to minimize errors
 
 ## Known Issues:
 - In rare instances dying seems to decrease performance and spams an error that is being investigated
