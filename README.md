@@ -1,5 +1,5 @@
 # ValheimEndgame
-A heavily modded Valheim repo for Clients and Servers running v0.205.5 (latest). Rediscover Valheim and embark on a new Adventure!
+A heavily modded Valheim repo for Clients and Servers running `v0.205.5`. Rediscover Valheim and embark on a new Adventure!
 
 ## For the best experience we recommend:
 - Create a new Character and a new World for the whole experience
