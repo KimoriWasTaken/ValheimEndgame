@@ -55,7 +55,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - Add another Endgame difficulty spike
    - Equipment is there, just need to add more stars
    - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
-~~- Cleanup unedited cfg's so clients/servers generate their own to minimize errors~~
+- ~~Cleanup unedited cfg's so clients/servers generate their own to minimize errors~~
 
 
 
