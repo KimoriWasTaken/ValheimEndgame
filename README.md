@@ -10,6 +10,8 @@ A heavily modded Valheim repo for Clients and Servers running `v0.205.5`. Redisc
 
 It's also recommended to disable auto-update on your server and clients because if an update releases we want check for compatibility first and wait for possible mod updates.
 
+
+
 ## To suit your taste:
 Have a lot of trolls on the server and want to save your own items:
 - Valheim\BepInEx\config\valheim_plus.cfg
@@ -18,6 +20,26 @@ Have a lot of trolls on the server and want to save your own items:
 Feel like it's too hard:
 - ValheimClient\BepInEx\config\org.bepinex.plugins.creaturelevelcontrol.cfg
    - Adjust Difficulty and/or DMG and HP per Star
+
+
+
+## How to install:
+- Navigate to your Steam Library
+- Right click Valheim -> Manage -> Browse Local files and leave the folder open
+- Grab the latest version for your Client or your Server here: https://github.com/KimoriWasTaken/ValheimEndgame/releases
+- Download, save and extract it with [winrar](https://www.win-rar.com/download.html)
+- Open the extracted folder
+- Now copy all the contents of that folder into the prior opened Valheim folder
+- Close the windows we opened and double check that we did it right
+- Right click Valheim -> Manage -> Browse Local files
+- If you did everything right you should see `BepInEx`, `doorstop_libs`, `MonoBleedingEdge`, `unstripped_corlib`, `valheim_Data`, `doorstop_config.ini`, `steam_appid.txt`, `UnitiCrashHandler.exe`, `UnityPlayer.dll`, `valheim.exe`, `winhttp.dll` in the same folder.
+
+
+
+## How to upate:
+Every release there will be a `PatchFromLastVersion.rar` that you can download and put into your Valheim folder for those with slower internet speeds.
+
+
 
 ## To-Do List:
 - Fix Desyncs
@@ -34,10 +56,14 @@ Feel like it's too hard:
    - Equipment is there, just need to add more stars
 - Cleanup unedited cfg's so clients/servers generate their own to minimize errors
 
+
+
 ## Known Issues:
 - In rare instances dying seems to decrease performance and spams an error that is being investigated
 - EpicLoot pushes you into Tier3 (iron) loot seemingly at random
 - Monk needs 400 stamina for his flying kick sometimes
+
+
 
 ## Mods Included, configured and balanced:
 - [Atos Arrows](https://www.nexusmods.com/valheim/mods/1301) `v1.0.0`
