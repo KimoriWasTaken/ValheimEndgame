@@ -62,7 +62,8 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 ## Known Issues:
 - In rare instances dying seems to decrease performance and spams an error that is being investigated
 - EpicLoot pushes you into Tier3 (iron) loot seemingly at random
-- Monk needs 400 stamina for his flying kick sometimes
+- For Windows 11 users the stamina costs of all abilities in ValheimLegends get multiplied by thes set value instead of reduced
+   - Example: vl_svr_energyCostMultiplier = 0.7 -> Monks flying kick costs 350 stamina instead of 50
 
 
 
