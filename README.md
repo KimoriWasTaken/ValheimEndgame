@@ -42,6 +42,7 @@ Feel like it's too hard:
 - [Discard Inventory Item](https://www.nexusmods.com/valheim/mods/45)
 - [Diving Mod](https://www.nexusmods.com/valheim/mods/1271)
 - [Easy Translate](https://github.com/MLIMG/Easy-Translate)
+- [Epic Endgame](https://www.nexusmods.com/valheim/mods/1505)
 - [Epic Loot](https://github.com/RandyKnapp/ValheimMods/tree/main/EpicLoot)
 - [Equipment and Quickslots](https://github.com/RandyKnapp/ValheimMods/tree/main/EquipmentAndQuickSlots)
 - [Extended Item Data Framework](https://github.com/RandyKnapp/ValheimMods/tree/main/ExtendedItemDataFramework)
