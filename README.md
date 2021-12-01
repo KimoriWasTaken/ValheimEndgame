@@ -40,6 +40,14 @@ Feel like it's too hard:
 Every release there will be a `PatchFromLastVersion.rar` that you can download and put into your Valheim folder for those with slower internet speeds.
 
 
+## How to clean-uninstall:
+- Navigate to your Steam Library
+- Right click Valheim -> Manage -> Browse Local files and leave the folder open
+- Go back to Steam
+- Right click Valheim -> Manage -> Uninstall
+- Now delete the remaining files in the prior opened Valheim folder
+- Re-install Valheim through Steam Library
+
 
 ## To-Do List:
 - Fix Desyncs
