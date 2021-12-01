@@ -2,10 +2,10 @@
 A heavily modded Valheim repo for Clients and Servers running v0.205.5 (latest). Rediscover Valheim and embark on a new Adventure!
 
 ## For the best experience we recommend:
-- Create a new Character and a new World after installing the mods
+- Create a new Character and a new World for the whole experience
 - Add steam launch options: `-window-mode exclusive -screen-fullscreen`
 - Add `gfx-enable-jobs=1` and `gfx-enable-native-gfx-jobs=1` in valheim_Data\boot.config
-- HD Texture Pack: https://www.nexusmods.com/valheim/mods/302
+- HD Texture Pack for Clients NOT the Server: https://www.nexusmods.com/valheim/mods/302
 - Do NOT use VulcanAPI
 
 ## To suit your taste:
