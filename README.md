@@ -14,11 +14,11 @@ It's also recommended to disable auto-update on your server and clients because 
 
 ## To suit your taste:
 Have a lot of trolls on the server and want to save your own items:
-- Valheim\BepInEx\config\valheim_plus.cfg
+- ValheimDedicatedServer\BepInEx\config\valheim_plus.cfg
    - Disable Ward section
 
 Feel like it's too hard:
-- ValheimClient\BepInEx\config\org.bepinex.plugins.creaturelevelcontrol.cfg
+- ValheimDedicatedServer\BepInEx\config\org.bepinex.plugins.creaturelevelcontrol.cfg
    - Adjust Difficulty and/or DMG and HP per Star
 
 
