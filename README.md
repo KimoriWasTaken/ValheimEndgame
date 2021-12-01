@@ -23,6 +23,7 @@ To-Do List:
 - Optimize Boss difficulty
 - Serpent isn't scary enough
 - More server side cleanups
+- Add another Endgame difficulty spike
 
 Known Issues:
 - Dying seems to decrease performance and spams an error that is being investigated
