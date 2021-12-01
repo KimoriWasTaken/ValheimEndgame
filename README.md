@@ -8,6 +8,8 @@ A heavily modded Valheim repo for Clients and Servers running `v0.205.5`. Redisc
 - HD Texture Pack for Clients NOT the Server: https://www.nexusmods.com/valheim/mods/302
 - Do NOT use VulcanAPI
 
+It's also recommended to disable auto-update on your server and clients because if an update releases we want check for compatibility first and wait for possible mod updates.
+
 ## To suit your taste:
 Have a lot of trolls on the server and want to save your own items:
 - Valheim\BepInEx\config\valheim_plus.cfg
