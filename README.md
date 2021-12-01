@@ -2,11 +2,11 @@
 A heavily modded Valheim repo for Clients and Servers running v0.205.5 (latest). Rediscover Valheim and embark on a new Adventure!
 
 ## For the best experience we recommend:
-- Launch Options: -window-mode exclusive -screen-fullscreen
-- Add "gfx-enable-jobs=1" and "gfx-enable-native-gfx-jobs=1" in valheim_Data\boot.config
-- Do NOT use VulcanAPI
+- Create a new Character and a new World after installing the mods
+- Add steam launch options: `-window-mode exclusive -screen-fullscreen`
+- Add `gfx-enable-jobs=1` and `gfx-enable-native-gfx-jobs=1` in valheim_Data\boot.config
 - HD Texture Pack: https://www.nexusmods.com/valheim/mods/302
-- And an updated Version of a Networking Mod to fix desyncs
+- Do NOT use VulcanAPI
 
 ## To suit your taste:
 Have a lot of trolls on the server and want to save your own items:
@@ -19,9 +19,13 @@ Feel like it's too hard:
 
 ## To-Do List:
 - Fix Desyncs
+   - Waiting for Network mod updates
 - Optimize Valheim Legends balancing
+   - Damage seems minimal at first and overpowered once leveled
 - Add Backpacks to the loottable
+   - They deserve it
 - Optimize Boss difficulty
+   - They should be a challange at first and when you have to farm them
 - Serpent isn't scary enough
    - Either boats get oneshot or they are indestructable...
 - Add another Endgame difficulty spike
@@ -30,7 +34,7 @@ Feel like it's too hard:
 
 ## Known Issues:
 - In rare instances dying seems to decrease performance and spams an error that is being investigated
-- EpicLoot seems to push you into Tier3 (iron) loot seemingly at random
+- EpicLoot pushes you into Tier3 (iron) loot seemingly at random
 - Monk needs 400 stamina for his flying kick sometimes
 
 ## Mods Included, configured and balanced:
