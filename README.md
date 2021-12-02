@@ -89,7 +89,6 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - [Discard Inventory Item](https://www.nexusmods.com/valheim/mods/45) `v0.7.0`
 - [Diving Mod](https://www.nexusmods.com/valheim/mods/1271) `v1.2.2`
 - [Easy Translate](https://github.com/MLIMG/Easy-Translate) `v1.0.0`
-- [Epic Endgame](https://www.nexusmods.com/valheim/mods/1505) `v1.0`
 - [Epic Loot](https://github.com/RandyKnapp/ValheimMods/tree/main/EpicLoot) `v0.8.7`
 - [Equipment and Quickslots](https://github.com/RandyKnapp/ValheimMods/tree/main/EquipmentAndQuickSlots) `v2.0.14`
 - [Extended Item Data Framework](https://github.com/RandyKnapp/ValheimMods/tree/main/ExtendedItemDataFramework) `v1.0.5`
@@ -108,6 +107,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 
 
 ## Inspired by:
+- [Epic Endgame](https://www.nexusmods.com/valheim/mods/1505)
 - [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description)
 - [Journey To Valhalla](https://valheim.thunderstore.io/package/thedefside/Journey_To_Valhalla/)
 - [FixItFelix](https://valheim.thunderstore.io/package/FixItFelix/)
