@@ -57,7 +57,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
    - Waiting for Network mod updates
 - Optimize Valheim Legends balancing
    - Damage seems minimal at first and overpowered once leveled
-- Add Backpacks to the loottable
+- Add Backpacks and `0.205.5` monsters to the loot- and spawntable
    - They deserve it
 - Optimize Boss difficulty
    - They should be a challange at first and when you have to farm them
@@ -73,8 +73,9 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 ## Known Issues:
 - In rare instances dying seems to decrease performance and spams an error that is being investigated
 - EpicLoot pushes you into Tier3 (iron) loot seemingly at random
-- For Windows 11 users the stamina costs of all abilities in ValheimLegends get multiplied by the set value instead of reduced
+- Some users experience mutliplied stamina costs instead of reduced stamina costs when using abilities of ValheimLegends
    - Example: vl_svr_energyCostMultiplier = 0.7 -> Monks flying kick costs 350 stamina instead of 50
+   - Fixed by setting it back to 1
 
 
 
@@ -103,3 +104,10 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - [Use Equipment in Water](https://www.nexusmods.com/valheim/mods/121) `v0.2.2.0`
 - [Valheim Legends](https://www.nexusmods.com/valheim/mods/796) `v0.4.2`
 - [Valheim Plus](https://valheim.plus/) `v0.9.9`
+
+
+
+## Inspired by:
+- [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description)
+- [Journey To Valhalla](https://valheim.thunderstore.io/package/thedefside/Journey_To_Valhalla/)
+- [FixItFelix](https://valheim.thunderstore.io/package/FixItFelix/)
