@@ -54,7 +54,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 
 ## To-Do List:
 - Fix Desyncs
-   - Waiting for Network mod updates
+   - Current Plugin works but terrain near spawn stones reset themselves sometimes
 - Optimize Valheim Legends balancing
    - Damage seems minimal at first and overpowered once leveled
 - Add Backpacks and `0.205.5` monsters to the loot- and spawntable
@@ -65,6 +65,9 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
    - They should be a challange at first and when you have to farm them
 - Serpent isn't scary enough
    - Either boats get oneshot or they are indestructable...
+- EpicLoot is too cheesy
+   - Once you got your hands on an iron pickaxe you can mine 1 silver ore, smelt it and get thrown into the next Tier with all Silver Equipment drops
+   - Will either use "MustHaveCrafted" or make mobs drop only enchant materials like [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description) does.
 - Add another Endgame difficulty spike
    - Equipment is there, just need to add more stars
    - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
