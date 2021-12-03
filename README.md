@@ -59,6 +59,8 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
    - Damage seems minimal at first and overpowered once leveled
 - Add Backpacks and `0.205.5` monsters to the loot- and spawntable
    - They deserve it
+- Greatswords Stamina Numbers are higher than expected
+   - They're missing a modifier somewhere
 - Optimize Boss difficulty
    - They should be a challange at first and when you have to farm them
 - Serpent isn't scary enough
