@@ -35,7 +35,7 @@ Feel like it's too hard:
 - Now copy all the contents of that folder into the prior opened Valheim folder
 - Close the windows we opened and double check that we did it right
 - Right click Valheim -> Manage -> Browse Local files
-- If you did everything right you should see `BepInEx`, `doorstop_libs`, `MonoBleedingEdge`, `unstripped_corlib`, `valheim_Data`, `doorstop_config.ini`, `steam_appid.txt`, `UnitiCrashHandler.exe`, `UnityPlayer.dll`, `valheim.exe`, `winhttp.dll` in the same folder.
+- If you did everything right you should see `BepInEx`, `doorstop_libs`, `MonoBleedingEdge`, `unstripped_corlib`, `valheim_Data`, `doorstop_config.ini`, `steam_appid.txt`, `UnitiCrashHandler.exe`, `UnityPlayer.dll`, `valheim.exe`, `winhttp.dll` in the same folder
 
 
 
@@ -53,31 +53,34 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 
 
 ## To-Do List:
+High Priority:
 - Fix Desyncs
-   - Current Plugin works but terrain near spawn stones reset themselves sometimes
-- Optimize Valheim Legends balancing
-   - Damage seems minimal at first and overpowered once leveled
-- Add Backpacks and `0.205.5` monsters to the loot- and spawntable
-   - They deserve it
+   - Current Plugin works but Terrain near Spawn-Stones reset themselves sometimes
 - Greatswords Stamina Numbers are higher than expected
    - They're missing a modifier somewhere
+- Add Backpacks and `0.205.5` Monsters to the Loot- and Startable
+   - Because who doesn't want to fight a 5★ a̷̦͗̆̍̊́b̸̮̯̟͗̈͘ǫ̸̛̖̔̀̑m̶͉͔͒̚͝i̸̥̮̠̗̓.̸̫̦̱̘̹̔̈̀̀.̶̖̓̉.̶̮͕͚̃̿̓.̸̖͕̄
+- Serpent isn't scary enough
+   - Either Boats get oneshot or they are indestructable...
+
+Needs Time:
+- Optimize Valheim Legends balancing
+   - Damage seems minimal at first and overpowered once leveled
 - Optimize Boss difficulty
    - They should be a challange at first and when you have to farm them
-- Serpent isn't scary enough
-   - Either boats get oneshot or they are indestructable...
 - EpicLoot is too cheesy
-   - Once you got your hands on an iron pickaxe you can mine 1 silver ore, smelt it and get thrown into the next Tier with all Silver Equipment drops
-   - Will either use "MustHaveCrafted" or make mobs drop only enchant materials like [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description) does.
+   - Once you got your hands on an iron pickaxe for example you can mine 1 silver ore, smelt it and get thrown into the next Tier with all Silver Equipment drops
+   - Will either use "MustHaveCrafted" or make mobs drop only Enchant Materials like [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description) does
+
+Future Plans:
 - Add another Endgame difficulty spike
    - Equipment is there, just need to add more stars
    - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
-- ~~Cleanup unedited cfg's so clients/servers generate their own to minimize errors~~
-
 
 
 ## Known Issues:
 - In rare instances dying seems to decrease performance and spams an error that is being investigated
-- EpicLoot pushes you into Tier3 (iron) loot seemingly at random
+- EpicLoot pushes you into Tier3 (Iron) loot seemingly at random
 - Some users experience mutliplied stamina costs instead of reduced stamina costs when using abilities of ValheimLegends
    - Example: vl_svr_energyCostMultiplier = 0.7 -> Monks flying kick costs 350 stamina instead of 50
    - Fixed by setting it back to 1
@@ -109,6 +112,15 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - [Valheim Legends](https://www.nexusmods.com/valheim/mods/796) `v0.4.2`
 - [Valheim Plus](https://valheim.plus/) `v0.9.9`
 
+Experimental Mods:
+- [Better Networking](https://www.nexusmods.com/valheim/mods/1570) `1.2.2`
+- [ChickenBoo](https://valheim.thunderstore.io/package/OdinPlus/ChickenBoo/) `2.0.5`
+- [DoOrDieMonsters](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) `0.4.3`
+- [Drop That](https://valheim.thunderstore.io/package/ASharpPen/Drop_That/) `2.1.1`
+- [EpicValheimAdditions](https://valheim.thunderstore.io/package/Huntardys/EpicValheimsAdditions/) `1.2.7`
+- [Forgotten Biomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) `0.0.15`
+- [MonsterLabZ](https://valheim.thunderstore.io/package/MonsterLabZ/MonsterLabZ/) `1.7.0`
+- [Spawn That](https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/) `0.11.6`
 
 
 ## Inspired by:
