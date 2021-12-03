@@ -53,7 +53,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 
 
 ## To-Do List:
-High Priority:
+#### High Priority:
 - Fix Desyncs
    - Current Plugin works but Terrain near Spawn-Stones reset themselves sometimes
 - Greatswords Stamina Numbers are higher than expected
@@ -63,7 +63,7 @@ High Priority:
 - Serpent isn't scary enough
    - Either Boats get oneshot or they are indestructable...
 
-Needs Time:
+#### Needs Time:
 - Optimize Valheim Legends balancing
    - Damage seems minimal at first and overpowered once leveled
 - Optimize Boss difficulty
@@ -72,7 +72,7 @@ Needs Time:
    - Once you got your hands on an iron pickaxe for example you can mine 1 silver ore, smelt it and get thrown into the next Tier with all Silver Equipment drops
    - Will either use "MustHaveCrafted" or make mobs drop only Enchant Materials like [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description) does
 
-Future Plans:
+#### Future Plans:
 - Add another Endgame difficulty spike
    - Equipment is there, just need to add more stars
    - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
@@ -112,15 +112,15 @@ Future Plans:
 - [Valheim Legends](https://www.nexusmods.com/valheim/mods/796) `v0.4.2`
 - [Valheim Plus](https://valheim.plus/) `v0.9.9`
 
-Experimental Mods:
+#### Experimental Mods:
 - [Better Networking](https://www.nexusmods.com/valheim/mods/1570) `1.2.2`
-- [ChickenBoo](https://valheim.thunderstore.io/package/OdinPlus/ChickenBoo/) `2.0.5`
+- [ChickenBoo](https://github.com/sbtoonz/chickenboo) `2.0.5`
 - [DoOrDieMonsters](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) `0.4.3`
-- [Drop That](https://valheim.thunderstore.io/package/ASharpPen/Drop_That/) `2.1.1`
+- [Drop That](https://github.com/ASharpPen/Valheim.DropThat) `2.1.1`
 - [EpicValheimAdditions](https://valheim.thunderstore.io/package/Huntardys/EpicValheimsAdditions/) `1.2.7`
 - [Forgotten Biomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) `0.0.15`
 - [MonsterLabZ](https://valheim.thunderstore.io/package/MonsterLabZ/MonsterLabZ/) `1.7.0`
-- [Spawn That](https://valheim.thunderstore.io/package/ASharpPen/Spawn_That/) `0.11.6`
+- [Spawn That](https://github.com/ASharpPen/Valheim.SpawnThat) `0.11.6`
 
 
 ## Inspired by:
