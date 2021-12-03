@@ -440,7 +440,7 @@
 		{ "Item": "BowHeavymetal",  "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
 		{ "Item": "SpearHeavymetal",  "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
 		{ "Item": "BattleaxeHeavymetal",  "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
-		{ "Item": "GreatswordHeavymetal",    "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
+		{ "Item": "GreatSwordHeavymetal",    "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
         { "Item": "SwordHeavymetal",  "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
 		{ "Item": "AxeHeavymetal",  "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
 		{ "Item": "AtgeirHeavymetal",  "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
