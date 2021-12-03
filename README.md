@@ -8,7 +8,7 @@ A heavily modded Valheim repo for Clients and Servers running `v0.205.5`. Redisc
    - Launch Options: `-window-mode exclusive -screen-fullscreen`
    - Press Alt+Enter twice after opening Valheim
 - Add `gfx-enable-jobs=1` and `gfx-enable-native-gfx-jobs=1` in valheim_Data\boot.config
-- HD Texture Pack for Clients NOT the Server: https://www.nexusmods.com/valheim/mods/302
+- HD Texture [Pack](https://drive.google.com/file/d/15pG3zUpH1Qz9PlsNe3Y6g8U1y0kwsknO/view?usp=sharing) for Clients NOT the Server: https://www.nexusmods.com/valheim/mods/302
 - Do NOT use VulcanAPI
 
 It's also recommended to disable auto-update on your server and clients because if an update releases we want check for compatibility first and wait for possible mod updates.
