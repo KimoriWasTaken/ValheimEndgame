@@ -6,6 +6,16 @@
       "Items": [ "SwordBronze", "SwordIron", "SwordSilver", "SwordBlackmetal", "SwordHeavymetal", "SwordFrometal", "SwordFlametal" ]
     },
     {
+      "Type": "GreatSwords",
+      "Fallback": "Club",
+      "Items": [ "IronGreatSwordHTD", "SilverGreatSwordHTD", "BlackMetalGreatSwordHTD", "BlackMetalGreatSwordAltHTD" ]
+    },
+    {
+      "Type": "Knuckles",
+      "Fallback": "Club",
+      "Items": [ "DeerFistsHTD", "BronzeFistsHTD", "SwordSilver", "IronFistsHTD" ]
+    },
+    {
       "Type": "Axes",
       "Fallback": "Club",
       "Items": [ "AxeStone", "AxeFlint", "AxeBronze", "AxeIron", "AxeBlackMetal", "AxeHeavymetal", "AxeFrometal", "AxeFlametal" ]
@@ -13,7 +23,7 @@
     {
       "Type": "TwoHandAxes",
       "Fallback": "AxeIron",
-      "Items": [ "Battleaxe", "BattleaxeHeavymetal", "BattleaxeFrometal", "BattleaxeFlametal" ]
+      "Items": [ "Battleaxe", "BlackMetalBattleaxeHTD", "BattleaxeHeavymetal", "BattleaxeFrometal", "BattleaxeFlametal" ]
     },
     {
       "Type": "Knives",
