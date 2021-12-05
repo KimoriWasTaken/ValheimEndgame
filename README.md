@@ -108,9 +108,9 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - [Better Networking](https://www.nexusmods.com/valheim/mods/1570) `1.2.2`
 - [Better Trader](https://www.nexusmods.com/valheim/mods/433) `2.1.1`
 - [Blacksmith Tools](https://valheim.thunderstore.io/package/GoldenJude/Blacksmiths_tools/) `v2.0.1`
-- [Bone Appetit](https://valheim.thunderstore.io/package/RockerKitten/BoneAppetit/) `3.0.4`
+- [Bone Appetit](https://github.com/RockerKitten/BoneAppetit) `3.0.4`
 - [ChickenBoo](https://github.com/sbtoonz/chickenboo) `2.0.5`
-- [Clutter](https://www.nexusmods.com/valheim/mods/1350) `v0.1.0`
+- [Clutter](https://github.com/plumga/Clutter) `v0.1.0`
 - [Creature Level and Loot Control](https://valheim.thunderstore.io/package/Smoothbrain/CreatureLevelAndLootControl/) `v4.4.5`
 - [Configuration Manager](https://github.com/aedenthorn/ValheimMods/tree/master/ConfigurationManager) `v0.5.0`
 - [Discard Inventory Item](https://www.nexusmods.com/valheim/mods/45) `v0.7.0`
@@ -134,7 +134,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - [RRR](https://valheim.thunderstore.io/package/neurodr0me/) `stable`
 - [Sell That](https://www.nexusmods.com/valheim/mods/232) `v1.2.0`
 - [Spawn That](https://github.com/ASharpPen/Valheim.SpawnThat) `0.11.6`
-- [Speedy Paths](https://www.nexusmods.com/valheim/mods/452) `v1.0.5`
+- [Speedy Paths](https://github.com/NNaso/ValheimMods/tree/main/SpeedyPaths) `v1.0.5`
 - [Use Equipment in Water](https://www.nexusmods.com/valheim/mods/121) `v0.2.2.0`
 - [Valheim Legends](https://www.nexusmods.com/valheim/mods/796) `v0.4.2`
 - [Valheim Plus](https://valheim.plus/) `v0.9.9`
@@ -146,3 +146,19 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description)
 - [Journey To Valhalla](https://valheim.thunderstore.io/package/thedefside/Journey_To_Valhalla/)
 - [FixItFelix](https://valheim.thunderstore.io/package/FixItFelix/)
+
+
+
+## Sponsor the creators, not us:
+- [CW_Jesse](https://www.patreon.com/CW_Jesse)
+   - Better Networking
+- [Digitalroot](https://www.buymeacoffee.com/digitalroot)
+   - Atos Arrows JVL
+   - Epic Loot Adventures
+   - Potions Plus
+- [Menthus15](https://www.patreon.com/Menthus)
+   - Better Trader
+- [MonsterLabZ](paypal.me/davidfry1988)
+   - MonsterLabZ
+- [ValheimPlus](https://www.patreon.com/valheimPlus)
+   - ValheimPlus
