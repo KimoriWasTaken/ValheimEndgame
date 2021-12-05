@@ -162,3 +162,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
    - MonsterLabZ
 - [ValheimPlus](https://www.patreon.com/valheimPlus)
    - ValheimPlus
+
+Our goal is to make it as easy as possible for others to enjoy the modded version of Valheim but we also don't want to hurt the creators since they are the ones that drive this project.
+
+So if you want us add your donation link or even remove your .dll please contact us and we'll make some sort of skript that will download and intall the respective mods from their original source.
