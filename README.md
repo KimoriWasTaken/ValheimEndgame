@@ -3,6 +3,8 @@ A heavily modded Valheim repo for Clients and Servers running `v0.205.5`. Redisc
 The goal is to preserve the original principle of Valheim and just add more content mods, qol mods and their respective depencies.
 After that we try to integrate all the mods into each other and balance them so they work together and feel like one big mod.
 
+
+
 ## For the best experience we recommend:
 - Create a new Character and a new World
 - Steam Properties:
@@ -45,6 +47,7 @@ Feel like it's too hard:
 Every release there will be a `PatchFromLastVersion.rar` that you can download and put into your Valheim folder for those with slower internet speeds.
 
 
+
 ## How to clean-uninstall:
 - Navigate to your Steam Library
 - Right click Valheim -> Manage -> Browse Local files and leave the folder open
@@ -52,6 +55,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 - Right click Valheim -> Manage -> Uninstall
 - Now delete the remaining files in the prior opened Valheim folder
 - Re-install Valheim through Steam Library
+
 
 
 ## To-Do List:
@@ -86,6 +90,7 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 ✔️ Add another Endgame difficulty spike
    - Equipment is there, just need to add more stars
    - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
+
 
 
 ## Known Issues:
