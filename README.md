@@ -2,7 +2,7 @@
 A heavily modded Valheim repo for Clients and Servers running `v0.205.5`. Rediscover Valheim and embark on a new Adventure!
 
 ## For the best experience we recommend:
-- Create a new Character and a new World for the whole experience
+- Create a new Character and a new World
 - Steam Properties:
    - Disable Steam Overlay
    - Launch Options: `-window-mode exclusive -screen-fullscreen`
@@ -56,26 +56,28 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 #### High Priority:
 - Fix Desyncs
    - Current Plugin works but Terrain near Spawn-Stones reset themselves sometimes
+- Economy Balancing
+   - Find the right balance between Drops, Enchant costs and Trader sales
 - Greatswords Stamina Numbers are higher than expected
    - They're missing a modifier somewhere
-- Add Backpacks and `0.205.5` Monsters to the Loot- and Startable
-   - Because who doesn't want to fight a 5★ a̷̦͗̆̍̊́b̸̮̯̟͗̈͘ǫ̸̛̖̔̀̑m̶͉͔͒̚͝i̸̥̮̠̗̓.̸̫̦̱̘̹̔̈̀̀.̶̖̓̉.̶̮͕͚̃̿̓.̸̖͕̄
-- Serpent isn't scary enough
-   - Either Boats get oneshot or they are indestructable...
+- ~~Add Backpacks and `0.205.5` Monsters to the Loot- and Startable~~
+   - ~~Because who doesn't want to fight a 5★ a̷̦͗̆̍̊́b̸̮̯̟͗̈͘ǫ̸̛̖̔̀̑m̶͉͔͒̚͝i̸̥̮̠̗̓.̸̫̦̱̘̹̔̈̀̀.̶̖̓̉.̶̮͕͚̃̿̓.̸̖͕̄~~
+- ~~Serpent isn't scary enough~~
+   - ~~Either Boats get oneshot or they are indestructable...~~
 
 #### Needs Time:
 - Optimize Valheim Legends balancing
    - Damage seems minimal at first and overpowered once leveled
 - Optimize Boss difficulty
    - They should be a challange at first and when you have to farm them
-- EpicLoot is too cheesy
-   - Once you got your hands on an iron pickaxe for example you can mine 1 silver ore, smelt it and get thrown into the next Tier with all Silver Equipment drops
-   - Will either use "MustHaveCrafted" or make mobs drop only Enchant Materials like [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description) does
+- ~~EpicLoot is too cheesy~~
+   - ~~Once you got your hands on an iron pickaxe for example you can mine 1 silver ore, smelt it and get thrown into the next Tier with all Silver Equipment drops~~
+   - ~~Will either use "MustHaveCrafted" or make mobs drop only Enchant Materials like [Epic Valheim](https://www.nexusmods.com/valheim/mods/1409?tab=description) does~~
 
 #### Future Plans:
-- Add another Endgame difficulty spike
-   - Equipment is there, just need to add more stars
-   - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
+- ~~Add another Endgame difficulty spike~~
+   - ~~Equipment is there, just need to add more stars~~
+   - ~~Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now~~
 
 
 ## Known Issues:
