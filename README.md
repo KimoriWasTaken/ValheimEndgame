@@ -94,11 +94,11 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 
 
 ## Known Issues:
+- Trader sells you Items that are waaaaay ahead
 - In rare instances dying seems to decrease performance and spams an error that is being investigated
-- EpicLoot pushes you into Tier3 (Iron) loot seemingly at random
-- Some users experience mutliplied stamina costs instead of reduced stamina costs when using abilities of ValheimLegends
-   - Example: vl_svr_energyCostMultiplier = 0.7 -> Monks flying kick costs 350 stamina instead of 50
-   - Fixed by setting it back to 1
+- Terrain near spawn stones gets reset sometimes
+   - You can fix this by sending the host (the first person that entered the area near the stones) away through a portal or a re-log
+   - This is an error in Valheims code which gets enhanced by us trying to fix desyncs
 
 
 
