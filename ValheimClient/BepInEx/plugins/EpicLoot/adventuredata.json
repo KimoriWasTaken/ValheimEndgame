@@ -42,7 +42,7 @@
       "ArmorPaddedCuirass",
       "ArmorPaddedGreaves",
       "HelmetPadded",
-      "CapeLox",
+      "CapeLox"
     ],
     "GamblesCount": 4,
     "GambleRarityChance": [ 1, 59, 20, 15, 5 ],
@@ -159,8 +159,8 @@
       { "Biome": "Swamp",       "Cost": 432, "ForestTokens": 15, "MinRadius": 0, "MaxRadius": 4500 },
       { "Biome": "Mountain",    "Cost": 564, "ForestTokens": 20, "MinRadius": 0, "MaxRadius": 6000 },
       { "Biome": "Plains",      "Cost": 690, "ForestTokens": 25, "MinRadius": 0, "MaxRadius": 7500 },
-	  { "Biome": "Mistlands",   "Cost": 810, "ForestTokens": 30, "MinRadius": 0, "MaxRadius": 20000 }
-	  { "Biome": "Ashlands",    "Cost": 1050, "ForestTokens": 40, "MinRadius": 0, "MaxRadius": 20000 }
+	  { "Biome": "Mistlands",   "Cost": 810, "ForestTokens": 30, "MinRadius": 0, "MaxRadius": 20000 },
+	  { "Biome": "Ashlands",    "Cost": 1050, "ForestTokens": 40, "MinRadius": 0, "MaxRadius": 20000 },
 	  { "Biome": "DeepNorth",   "Cost": 1050, "ForestTokens": 40, "MinRadius": 0, "MaxRadius": 20000 }
     ],
     "StartRadiusMin": 0,
