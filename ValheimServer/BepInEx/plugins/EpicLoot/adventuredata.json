@@ -11,6 +11,13 @@
     "RandomItemsCount": 0, 
     "OtherItems": [
 	  { "Item": "Andvaranaut",    "CoinsCost": 500 },
+	  { "Item": "HelmetDverger",  "CoinsCost": 620 },
+	  { "Item": "FishingBait",    "CoinsCost": 10 },
+	  { "Item": "FishingRod",     "CoinsCost": 350 },
+	  { "Item": "BeltStrength",   "CoinsCost": 950 },
+	  { "Item": "Thunderstone",   "CoinsCost": 100 },
+	  { "Item": "YmirRemains",    "CoinsCost": 120 },
+	  { "Item": "HelmetYule",     "CoinsCost": 100 },
 	  { "Item": "ShardMagic",     "CoinsCost": 1000 },
       { "Item": "ShardRare",      "CoinsCost": 3000 },
       { "Item": "ShardEpic",      "CoinsCost": 7500 },
