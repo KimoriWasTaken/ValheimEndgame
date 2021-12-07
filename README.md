@@ -45,6 +45,7 @@ Feel like it's too hard:
 
 ## How to upate:
 Every release there will be a `PatchFromLastVersion.rar` that you can download and put into your Valheim folder for those with slower internet speeds.
+If there's none, delete your `BepInEx` folder and replace it with the one from latest version.
 
 
 
@@ -60,14 +61,15 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
 
 ## To-Do List:
 #### High Priority:
-❌ Fix Desyncs
+⚠️ Fix Desyncs
    - Current Plugin works but Terrain near Spawn-Stones reset themselves sometimes
-
-❌ Economy Balancing
-   - Find the right balance between Drops, Enchant costs and Trader sales
 
 ❌ Greatswords Stamina Numbers are higher than expected
    - They're missing a modifier somewhere
+
+❌ Integrate HugosArmory, JudesEquipment and JotunsBackpacks into BetterTrader
+   - Traders sales should scale with your recipe unlocks
+   - Can't find how to add all items under these conditions to Trader
 
 ✔️ Add Backpacks and `0.205.5` Monsters to the Loot- and Startable
    - Because who doesn't want to fight a 5★ a̷̦͗̆̍̊́b̸̮̯̟͗̈͘ǫ̸̛̖̔̀̑m̶͉͔͒̚͝i̸̥̮̠̗̓.̸̫̦̱̘̹̔̈̀̀.̶̖̓̉.̶̮͕͚̃̿̓.̸̖͕̄
@@ -76,8 +78,12 @@ Every release there will be a `PatchFromLastVersion.rar` that you can download a
    - Either Boats get oneshot or they are indestructable...
 
 #### Needs Time:
-❌ Optimize Valheim Legends balancing
+⚠️ Economy balancing
+   - Find the right balance between Drops, Enchant costs and Trader sales
+
+❌ Valheim Legends balancing
    - Damage seems minimal at first and overpowered once leveled
+   - Especially Casters seem to need a lot of attention
 
 ❌ Optimize Boss difficulty
    - They should be a challange at first and when you have to farm them
