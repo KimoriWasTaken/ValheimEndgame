@@ -143,8 +143,12 @@
       { "Item": "CapeTrollHide",          "CoinsCost": 1500 },
       { "Item": "CapeWolf",               "CoinsCost": 4500 },
       { "Item": "CapeLinen",              "CoinsCost": 4000 },
-      { "Item": "CapeLox",                "CoinsCost": 5000 }
+      { "Item": "CapeLox",                "CoinsCost": 5000 },
 
+      { "Item": "PickaxeStone",           "CoinsCost": 99999  },
+      { "Item": "PickaxeAntler",          "CoinsCost": 99999  },
+      { "Item": "PickaxeBronze",          "CoinsCost": 99999  },
+      { "Item": "PickaxeIron",            "CoinsCost": 99999  }
     ]
   },
   "TreasureMap": { 
