@@ -2,7 +2,7 @@
   "ItemInfo": [
     {
       "Type": "Swords",
-      "Fallback": "AxeFlint",
+      "Fallback": "Club",
       "Items": [ "SwordBronze", "SwordIron", "SwordSilver", "SwordBlackmetal", "SwordHeavymetal", "SwordFrometal", "SwordFlametal" ]
     },
     {
@@ -12,27 +12,27 @@
     },
     {
       "Type": "TwoHandAxes",
-      "Fallback": "AxeIron",
-      "Items": [ "Battleaxe", "BattleaxeHeavymetal", "BattleaxeFrometal", "BattleaxeFlametal" ]
+      "Fallback": "Club",
+      "Items": [ "IronGreatSwordHTD", "Battleaxe", "SilverGreatSwordHTD", "SilverBattleaxeHTD", "BlackMetalGreatSwordHTD", "BlackMetalBattleaxeHTD", "BattleaxeHeavymetal", "BattleaxeFrometal", "FlametalGreatSwordHTD", "BattleaxeFlametal" ]
     },
     {
       "Type": "Knives",
       "Fallback": "Club",
-      "Items": [ "KnifeFlint", "KnifeCopper", "KnifeChitin", "KnifeBlackMetal", "KnifeHeavymetal", "KnifeFrometal", "KnifeFlametal" ]
+      "Items": [ "KnifeFlint", "DeerFistsHTD", "KnifeCopper", "BronzeFistsHTD", "KnifeChitin", "IronFistsHTD", "KnifeBlackMetal", "KnifeHeavymetal", "KnifeFrometal", "KnifeFlametal" ]
     },
     {
       "Type": "Clubs",
-      "Fallback": "",
+      "Fallback": "Torch",
       "Items": [ "Club", "MaceBronze", "MaceIron", "MaceSilver", "MaceNeedle", "MaceHeavymetal", "MaceFrometal", "MaceFlametal" ]
     },
     {
       "Type": "Sledges",
-      "Fallback": "AxeFlint",
+      "Fallback": "Club",
       "Items": [ "SledgeStagbreaker", "SledgeIron", "SledgeHeavymetal", "SledgeFrometal", "SledgeFlametal" ]
     },
     {
       "Type": "Polearms",
-      "Fallback": "SpearBronze",
+      "Fallback": "Club",
       "Items": [ "AtgeirBronze", "AtgeirIron", "AtgeirBlackmetal", "AtgeirHeavymetal", "AtgeirFrometal", "AtgeirFlametal" ]
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "Type": "Pickaxes",
-      "Fallback": "AxeFlint",
+      "Fallback": "Club",
       "Items": [ "PickaxeAntler", "PickaxeBronze", "PickaxeIron", "PickaxeHeavymetal", "PickaxeFrometal", "PickaxeFlametal" ]
     },
     {
@@ -63,22 +63,22 @@
     {
       "Type": "ChestArmor",
       "Fallback": "",
-      "Items": [ "ArmorRagsChest", "ArmorLeatherChest", "ArmorTrollLeatherChest", "ArmorBronzeChest", "ArmorIronChest", "ArmorWolfChest", "ArmorPaddedCuirass" ]
+      "Items": [ "ArmorRagsChest", "ArmorLeatherChest", "ArmorTrollLeatherChest", "ArmorBronzeChest", "ArmorBarbarianBronzeChestJD", "ArmorIronChest", "ArmorPlateIronChestJD", "ArmorWolfChest", "ArmorDragonslayerChest", "ArmorPaddedCuirass", "ArmorBlackmetalgarbChest", "ArmorWandererChest", "ArmorMistlandsChest" ]
     },
     {
       "Type": "LegsArmor",
       "Fallback": "",
-      "Items": [ "ArmorRagsLegs", "ArmorLeatherLegs", "ArmorTrollLeatherLegs", "ArmorBronzeLegs", "ArmorIronLegs", "ArmorWolfLegs", "ArmorPaddedGreaves" ]
+      "Items": [ "ArmorRagsLegs", "ArmorLeatherLegs", "ArmorTrollLeatherLegs", "ArmorBronzeLegs", "ArmorBarbarianBronzeLegsJD", "ArmorIronLegs", "ArmorPlateIronLegsJD", "ArmorWolfLegs", "ArmorDragonslayerLegs", "ArmorPaddedGreaves", "ArmorBlackmetalgarbLegs", "ArmorWandererLegs", "ArmorMistlandsLegs" ]
     },
     {
       "Type": "HeadArmor",
       "Fallback": "ArmorRagsChest",
-      "Items": [ "HelmetLeather", "HelmetTrollLeather", "HelmetBronze", "HelmetIron", "HelmetDrake", "HelmetPadded" ]
+      "Items": [ "HelmetLeather", "HelmetTrollLeather", "HelmetBronze", "ArmorBarbarianBronzeHelmetJD", "HelmetIron", "ArmorPlateIronHelmetJD", "HelmetDrake", "ArmorDragonslayerHelmet", "HelmetPadded", "ArmorBlackmetalgarbHelmet", "ArmorWandererHelmet", "ArmorMistlandsHelmet" ]
     },
     {
       "Type": "ShouldersArmor",
       "Fallback": "ArmorRagsLegs",
-      "Items": [ "CapeDeerHide", "CapeTrollHide", "CapeWolf", "CapeLinen", "CapeLox" ]
+      "Items": [ "CapeDeerHide", "CapeTrollHide", "ArmorBarbarianCapeJD", "CapeWolf", "CapeLinen", "CapeLox", "ArmorWandererCape" ]
     },
     {
       "Type": "Torches",
@@ -88,7 +88,7 @@
     {
       "Type": "Tools",
       "Fallback": "Club",
-      "Items": [ "Hammer", "Hoe", "Cultivator" ]
+      "Items": [ "Hammer", "Hoe", "Cultivator", "BackpackSimple" ]
     },
     {
       "Type": "Utility",
