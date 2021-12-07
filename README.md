@@ -171,4 +171,4 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 
 Our goal is to make it as easy as possible for others to enjoy the modded version of Valheim but we also don't want to hurt the creators since they are the ones that drive this project.
 
-So if you want us add your donation link or even remove your .dll please contact us and we'll make some sort of skript that will download and intall the respective mods from their original source.
+So if you want us add your donation link or even remove your .dll please contact us and we'll make some sort of skript that will download and intall the respective mods from their original source. Integrating everything and balancing takes priority right now which is why a skript to download everything from their original source comes later on the to-do list.
