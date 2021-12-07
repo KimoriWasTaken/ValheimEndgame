@@ -97,6 +97,9 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
    - Equipment is there, just need to add more stars
    - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
 
+❌ Create a skript that will Download and Install everything
+   - This way we can support the original creators through nexus mods reward program with every click
+   - And it will still be a one-click install for users
 
 
 ## Known Issues:
@@ -156,16 +159,38 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 
 
 ## Sponsor the creators, not us:
+- [Aedenthorn](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=18901754)
+   - Configuration Manager
+   - Discard or Recycle Inventory Item
+- [ASharpPen123](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=111115963)
+   - DropThat
+   - SellThat
 - [CW_Jesse](https://www.patreon.com/CW_Jesse)
    - Better Networking
 - [Digitalroot](https://www.buymeacoffee.com/digitalroot)
    - Atos Arrows JVL
    - Epic Loot Adventures
    - Potions Plus
+- [DJAurelius](https://www.nexusmods.com/Core/Libs/Common/Widgets/DonatePopUp?user=887129)
+   - HD Valheim
+- [ElTheLedge](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=110405878)
+   - Use Equipment in Water
+- [EmrikNorth](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=121141283)
+   - Jotunn Backpacks
+- [HugotheDward](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=80461878)
+   - Hugo's Armory
 - [Menthus15](https://www.patreon.com/Menthus)
    - Better Trader
+- [Mlimg](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=111855103)
+   - Diving Mod
 - [MonsterLabZ](paypal.me/davidfry1988)
    - MonsterLabZ
+- [Plumga](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=8865735)
+   - Clutter
+- [RandyKnapp](https://www.nexusmods.com/Core/Libs/Common/Widgets/PayPalPopUp?user=9322077)
+   - Epic Loot
+   - Equipment and Quick Slots
+   - Extended Item Data Framework
 - [ValheimPlus](https://www.patreon.com/valheimPlus)
    - ValheimPlus
 
