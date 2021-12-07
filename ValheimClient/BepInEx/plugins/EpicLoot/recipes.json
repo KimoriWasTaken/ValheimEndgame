@@ -7,8 +7,8 @@
       "item": "LeatherBelt",
       "craftingStation": "forge",
       "resources": [
-        { "item": "TrollHide", "amount": 200 },
-        { "item": "Coins", "amount": 5000 }
+        { "item": "LeatherScraps", "amount": 40 },
+        { "item": "Bronze", "amount": 10 }
       ]
     },
     {
@@ -16,8 +16,7 @@
       "item": "SilverRing",
       "craftingStation": "forge",
       "resources": [
-        { "item": "AmberPearl", "amount": 100 },
-        { "item": "Silver", "amount": 200 }
+        { "item": "Silver", "amount": 10 }
       ]
     },
     {
@@ -25,8 +24,8 @@
       "item": "GoldRubyRing",
       "craftingStation": "forge",
       "resources": [
-        { "item": "Coins", "amount": 2500 },
-        { "item": "Ruby", "amount": 100 }
+        { "item": "Coins", "amount": 200 },
+        { "item": "Ruby", "amount": 10 }
       ]
     },
 
@@ -48,7 +47,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardRare", "amount": 5 },
-        { "item": "Coins",     "amount": 5 }
+        { "item": "Coins",     "amount": 50 }
       ]
     },
     {
@@ -169,7 +168,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "RunestoneRare", "amount": 5  },
-        { "item": "Coins",         "amount": 5 }
+        { "item": "Coins",         "amount": 50 }
       ]
     },
     {

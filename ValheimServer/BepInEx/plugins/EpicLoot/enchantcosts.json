@@ -1,10 +1,8 @@
 {
-  // Disenchant Products
-  ///////////////////////////////////////////////////////////////////////////////////////////////
   "DisenchantProducts": [
     {
-      "IsMagic": true, 
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "IsMagic": true,
+      "ItemTypes": [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Magic",
       "Products": [
         { "Item": "DustMagic",    "Amount": 1 },
@@ -12,8 +10,8 @@
       ]
     },
     {
-      "IsMagic": true, 
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "IsMagic": true,
+      "ItemTypes": [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Rare",
       "Products": [
         { "Item": "DustRare",    "Amount": 1 },
@@ -21,8 +19,8 @@
       ]
     },
     {
-      "IsMagic": true, 
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "IsMagic": true,
+      "ItemTypes": [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Epic",
       "Products": [
         { "Item": "DustEpic",    "Amount": 1 },
@@ -30,8 +28,8 @@
       ]
     },
     {
-      "IsMagic": true, 
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "IsMagic": true,
+      "ItemTypes": [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Legendary",
       "Products": [
         { "Item": "DustLegendary",    "Amount": 1 },
@@ -118,47 +116,12 @@
       "ItemTypes" : [ "Trophie" ],
       "ItemNames" : [ "$item_trophy_goblinking" ],
       "Products" : [ { "Item": "RunestoneLegendary", "Amount": 4 } ]
-    },
-    {
-      "ItemNames" : [ "$item_cryptkey" ],
-      "Products" : [
-        { "Item": "DustRare",    "Amount": 2 },
-        { "Item": "EssenceRare", "Amount": 1 },
-        { "Item": "ReagentRare", "Amount": 1 }
-      ]
-    },
-    {
-      "ItemNames" : [ "$item_dragontear" ],
-      "Products" : [
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "EssenceLegendary", "Amount": 1 },
-        { "Item": "ReagentLegendary", "Amount": 1 }
-      ]
-    },
-    {
-      "ItemNames" : [ "$item_dragontear" ],
-      "Products" : [
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "EssenceLegendary", "Amount": 1 },
-        { "Item": "ReagentLegendary", "Amount": 1 }
-      ]
-    },
-    {
-      "ItemNames" : [ "Yagluth thing" ],
-      "Products" : [
-        { "Item": "DustLegendary",    "Amount": 6 },
-        { "Item": "EssenceLegendary", "Amount": 3 },
-        { "Item": "ReagentLegendary", "Amount": 3 }
-      ]
     }
   ],
 
-
-  // Enchant Costs
-  ///////////////////////////////////////////////////////////////////////////////////////////////
   "EnchantCosts": [
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon" ],
       "Rarity": "Magic",
       "Cost": [
         { "Item": "RunestoneMagic", "Amount": 1 },
@@ -167,7 +130,7 @@
       ]
     },
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Rare",
       "Cost": [
         { "Item": "RunestoneRare", "Amount": 1 },
@@ -176,7 +139,7 @@
       ]
     },
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Epic",
       "Cost": [
         { "Item": "RunestoneEpic", "Amount": 1 },
@@ -185,13 +148,12 @@
       ]
     },
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Legendary",
       "Cost": [
-        { "Item": "RunestoneLegendary", "Amount": 5 },
-        { "Item": "DustLegendary",      "Amount": 15 },
-        { "Item": "EssenceLegendary",   "Amount": 15 },
-	{ "Item": "Coins", "Amount": 10000 }
+        { "Item": "RunestoneLegendary", "Amount": 1 },
+        { "Item": "DustLegendary",      "Amount": 5 },
+        { "Item": "EssenceLegendary",   "Amount": 5 }
       ]
     },
     {
@@ -225,20 +187,16 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Legendary",
       "Cost": [
-        { "Item": "RunestoneLegendary", "Amount": 5 },
-        { "Item": "DustLegendary",      "Amount": 15 },
-        { "Item": "ReagentLegendary",   "Amount": 15 },
-	{ "Item": "Coins", "Amount": 10000 }
+        { "Item": "RunestoneLegendary", "Amount": 1 },
+        { "Item": "DustLegendary",      "Amount": 5 },
+        { "Item": "ReagentLegendary",   "Amount": 5 }
       ]
     }
   ],
 
-
-  // Augment Costs
-  ///////////////////////////////////////////////////////////////////////////////////////////////
   "AugmentCosts": [
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Magic",
       "Cost": [
         { "Item": "ShardMagic",   "Amount": 1 },
@@ -247,7 +205,7 @@
       ]
     },
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes": [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Rare",
       "Cost": [
         { "Item": "ShardRare",   "Amount": 1 },
@@ -256,21 +214,21 @@
       ]
     },
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes": [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Epic",
       "Cost": [
-        { "Item": "ShardEpic",   "Amount": 3 },
-        { "Item": "DustEpic",    "Amount": 3 },
-        { "Item": "EssenceEpic", "Amount": 3 }
+        { "Item": "ShardEpic",   "Amount": 1 },
+        { "Item": "DustEpic",    "Amount": 1 },
+        { "Item": "EssenceEpic", "Amount": 1 }
       ]
     },
     {
-      "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
+      "ItemTypes": [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Tool" ],
       "Rarity": "Legendary",
       "Cost": [
-        { "Item": "ShardLegendary",   "Amount": 3 },
-        { "Item": "DustLegendary",    "Amount": 3 },
-        { "Item": "EssenceLegendary", "Amount": 3 }
+        { "Item": "ShardLegendary",   "Amount": 1 },
+        { "Item": "DustLegendary",    "Amount": 1 },
+        { "Item": "EssenceLegendary", "Amount": 1 }
       ]
     },
     {
@@ -295,27 +253,27 @@
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Epic",
       "Cost": [
-        { "Item": "ShardEpic",   "Amount": 2 },
-        { "Item": "DustEpic",    "Amount": 2 },
-        { "Item": "ReagentEpic", "Amount": 2 }
+        { "Item": "ShardEpic",   "Amount": 1 },
+        { "Item": "DustEpic",    "Amount": 1 },
+        { "Item": "ReagentEpic", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Legendary",
       "Cost": [
-        { "Item": "ShardLegendary",   "Amount": 2 },
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "ReagentLegendary", "Amount": 2 }
+        { "Item": "ShardLegendary",   "Amount": 1 },
+        { "Item": "DustLegendary",    "Amount": 1 },
+        { "Item": "ReagentLegendary", "Amount": 1 }
       ]
     }
   ],
   "ReAugmentCosts" : [
-    { "Item": "Coins", "Amount": 5000 },
+    { "Item": "Coins", "Amount": 1000 },
+    { "Item": "Coins", "Amount": 3000 },
+    { "Item": "Coins", "Amount": 6000 },
+    { "Item": "Coins", "Amount": 8000 },
     { "Item": "Coins", "Amount": 10000 },
-    { "Item": "Coins", "Amount": 15000 },
-    { "Item": "Coins", "Amount": 25000 },
-    { "Item": "Coins", "Amount": 27500 },
-    { "Item": "Coins", "Amount": 29000 }
+    { "Item": "Coins", "Amount": 15000 }
   ] 
 }
