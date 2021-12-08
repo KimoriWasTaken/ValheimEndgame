@@ -78,9 +78,9 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 
 #### Needs Time:
 ⚠️ Economy balancing
-   - Find the right balance between Drops, Enchant costs and Trader sales
+   - Find the right balance between Drops, Enchant/Augment costs and the Trader
 
-❌ Valheim Legends balancing
+⚠️ Valheim Legends balancing
    - Damage seems minimal at first and overpowered once leveled
    - Especially Casters seem to need a lot of attention
 
@@ -95,10 +95,6 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 ✔️ Add another Endgame difficulty spike
    - Equipment is there, just need to add more stars
    - Looking into [ForgottenBiomes](https://valheim.thunderstore.io/package/AlreeNicolas/Forgotten_Biomes/) and [DoOrDieMonster](https://valheim.thunderstore.io/package/Horem/DoOrDieMonsters/) right now
-
-❌ Create a skript that will Download and Install everything
-   - This way we can support the original creators through nexus mods reward program with every click
-   - And it will still be a one-click install for users
 
 
 ## Known Issues:
