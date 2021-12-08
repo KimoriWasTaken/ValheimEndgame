@@ -67,9 +67,8 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 ❌ Greatswords Stamina Numbers are higher than expected
    - They're missing a modifier somewhere
 
-❌ Integrate HugosArmory, JudesEquipment and JotunsBackpacks into BetterTrader
+✔️ Integrate HugosArmory, JudesEquipment and JotunsBackpacks into BetterTrader
    - Traders sales should scale with your recipe unlocks
-   - Can't find how to add all items under these conditions to Trader
 
 ✔️ Add Backpacks and `0.205.5` Monsters to the Loot- and Startable
    - Because who doesn't want to fight a 5★ a̷̦͗̆̍̊́b̸̮̯̟͗̈͘ǫ̸̛̖̔̀̑m̶͉͔͒̚͝i̸̥̮̠̗̓.̸̫̦̱̘̹̔̈̀̀.̶̖̓̉.̶̮͕͚̃̿̓.̸̖͕̄
@@ -85,7 +84,7 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
    - Damage seems minimal at first and overpowered once leveled
    - Especially Casters seem to need a lot of attention
 
-❌ Optimize Boss difficulty
+✔️ Optimize Boss difficulty
    - They should be a challange at first and when you have to farm them
 
 ✔️ EpicLoot is too cheesy
