@@ -37,7 +37,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "ShardMagic", "amount": 5 }
+        { "item": "ShardMagic", "amount": 5 },
+        { "item": "Coins",     "amount": 2 }
       ]
     },
     {
@@ -47,7 +48,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardRare", "amount": 5 },
-        { "item": "Coins",     "amount": 50 }
+        { "item": "Coins",     "amount": 5 }
       ]
     },
     {
@@ -57,7 +58,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardEpic", "amount": 5 },
-        { "item": "Coins",     "amount": 100 }
+        { "item": "Coins",     "amount": 10 }
       ]
     },
 
@@ -68,7 +69,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "DustMagic", "amount": 5  }
+        { "item": "DustMagic", "amount": 5  },
+        { "item": "Coins",     "amount": 2 }
       ]
     },
     {
@@ -98,7 +100,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "ReagentMagic", "amount": 5 }
+        { "item": "ReagentMagic", "amount": 5 },
+        { "item": "Coins",     "amount": 2 }
       ]
     },
     {
@@ -128,7 +131,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "EssenceMagic", "amount": 5 }
+        { "item": "EssenceMagic", "amount": 5 },
+        { "item": "Coins",     "amount": 2 }
       ]
     },
     {
@@ -158,7 +162,8 @@
       "amount": 1,
       "craftingStation": "",
       "resources": [
-        { "item": "RunestoneMagic", "amount": 5 }
+        { "item": "RunestoneMagic", "amount": 5 },
+        { "item": "Coins",     "amount": 10 }
       ]
     },
     {
@@ -250,7 +255,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardEpic", "amount": 2 },
-        { "item": "Coins",     "amount": 3 }
+        { "item": "Coins",     "amount": 5 }
       ]
     },
     {
@@ -260,7 +265,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardEpic", "amount": 2 },
-        { "item": "Coins",     "amount": 3 }
+        { "item": "Coins",     "amount": 5 }
       ]
     },
     {
@@ -270,7 +275,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardEpic", "amount": 2 },
-        { "item": "Coins",     "amount": 3 }
+        { "item": "Coins",     "amount": 5 }
       ]
     },
     ///////////////////////////////////////////////////////////////////////////////////////////////
@@ -281,7 +286,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardLegendary", "amount": 2 },
-        { "item": "Coins",          "amount": 4 }
+        { "item": "Coins",          "amount": 10 }
       ]
     },
     {
@@ -291,7 +296,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardLegendary", "amount": 2 },
-        { "item": "Coins",          "amount": 4 }
+        { "item": "Coins",          "amount": 10 }
       ]
     },
     {
@@ -301,7 +306,7 @@
       "craftingStation": "",
       "resources": [
         { "item": "ShardLegendary", "amount": 2 },
-        { "item": "Coins",          "amount": 4 }
+        { "item": "Coins",          "amount": 10 }
       ]
     },
 
