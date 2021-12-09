@@ -127,35 +127,45 @@
           "Level": 2,
           "Drops": [ [0, 95], [1, 5] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 95 },
+            { "Item": "Tier1Mats", "Weight": 5 }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 90], [1, 10] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 90 },
+            { "Item": "Tier1Mats", "Weight": 10 }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 80], [1, 20] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 80 },
+            { "Item": "Tier1Mats", "Weight": 15 },
+            { "Item": "Tier2Mats", "Weight": 5 }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 70], [1, 30] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 70 },
+            { "Item": "Tier1Mats", "Weight": 19 },
+            { "Item": "Tier2Mats", "Weight": 10 },
+            { "Item": "Tier3Mats", "Weight": 1 }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 60], [1, 39], [2, 1] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 60 },
+            { "Item": "Tier1Mats", "Weight": 20 },
+            { "Item": "Tier2Mats", "Weight": 15 },
+            { "Item": "Tier3Mats", "Weight": 5 }
           ]
         }
       ]
@@ -169,42 +179,57 @@
           "Level": 1,
           "Drops": [ [0, 95], [1, 5] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 75 },
+            { "Item": "Tier1Mats", "Weight": 25 }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 90], [1, 10] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 70 },
+            { "Item": "Tier1Mats", "Weight": 29 },
+            { "Item": "Tier2Mats", "Weight": 1 }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 85], [1, 15] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 63 },
+            { "Item": "Tier1Mats", "Weight": 34 },
+            { "Item": "Tier2Mats", "Weight": 2 },
+            { "Item": "Tier3Mats", "Weight": 1 }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 75], [1, 25] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 53 },
+            { "Item": "Tier1Mats", "Weight": 40 },
+            { "Item": "Tier2Mats", "Weight": 5 },
+            { "Item": "Tier3Mats", "Weight": 2 }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 65], [1, 34], [2, 1] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 45 },
+            { "Item": "Tier1Mats", "Weight": 43 },
+            { "Item": "Tier2Mats", "Weight": 9 },
+            { "Item": "Tier3Mats", "Weight": 3 }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 55], [1, 43], [2, 2] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 35 },
+            { "Item": "Tier1Mats", "Weight": 45 },
+            { "Item": "Tier2Mats", "Weight": 15 },
+            { "Item": "Tier3Mats", "Weight": 5 }
           ]
         }
       ]
@@ -218,48 +243,58 @@
           "Level": 1,
           "Drops": [ [0, 90], [1, 10] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 },
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 50 },
+            { "Item": "Tier1Mats", "Weight": 47 },
+            { "Item": "Tier2Mats", "Weight": 2 },
+            { "Item": "Tier3Mats", "Weight": 1 }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 80], [1, 20] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 },
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 40 },
+            { "Item": "Tier1Mats", "Weight": 53 },
+            { "Item": "Tier2Mats", "Weight": 5 },
+            { "Item": "Tier1Mats", "Weight": 2 }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 70], [1, 30] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 },
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 29 },
+            { "Item": "Tier1Mats", "Weight": 59 },
+            { "Item": "Tier2Mats", "Weight": 9 },
+            { "Item": "Tier3Mats", "Weight": 3 }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 55], [1, 44], [2, 1] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 },
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 15 },
+            { "Item": "Tier1Mats", "Weight": 65 },
+            { "Item": "Tier2Mats", "Weight": 15 },
+            { "Item": "Tier3Mats", "Weight": 5 }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 40], [1, 58], [2, 2] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 },
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 70 },
+            { "Item": "Tier2Mats", "Weight": 20 },
+            { "Item": "Tier3Mats", "Weight": 10 }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 25], [1, 71], [2, 3], [3, 1] ],
           "Loot": [
-            { "Item": "Tier0Mats", "Weight": 1 },
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 60 },
+            { "Item": "Tier2Mats", "Weight": 25 },
+            { "Item": "Tier3Mats", "Weight": 15 }
           ]
         }
       ]
@@ -273,42 +308,57 @@
           "Level": 1,
           "Drops": [ [0, 85], [1, 15] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 24 },
+            { "Item": "Tier1Mats", "Weight": 73 },
+            { "Item": "Tier2Mats", "Weight": 2 },
+            { "Item": "Tier3Mats", "Weight": 1 }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 75], [1, 25] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 15 },
+            { "Item": "Tier1Mats", "Weight": 78 },
+            { "Item": "Tier2Mats", "Weight": 5 },
+            { "Item": "Tier3Mats", "Weight": 2 }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 65], [1, 34], [2, 1] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier0Mats", "Weight": 5 },
+            { "Item": "Tier1Mats", "Weight": 83 },
+            { "Item": "Tier2Mats", "Weight": 9 },
+            { "Item": "Tier3Mats", "Weight": 3 }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 50], [1, 48], [2, 2] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 80 },
+            { "Item": "Tier2Mats", "Weight": 15 },
+            { "Item": "Tier3Mats", "Weight": 5 }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 35], [1, 61], [2, 3], [3, 1] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 70 },
+            { "Item": "Tier2Mats", "Weight": 20 },
+            { "Item": "Tier3Mats", "Weight": 10 }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 20], [1, 74], [2, 4], [3, 2] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 60 },
+            { "Item": "Tier2Mats", "Weight": 25 },
+            { "Item": "Tier3Mats", "Weight": 15 }
           ]
         }
       ]
@@ -322,48 +372,52 @@
           "Level": 1,
           "Drops": [ [0, 80], [1, 20] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 },
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 74 },
+            { "Item": "Tier2Mats", "Weight": 24 },
+            { "Item": "Tier3Mats", "Weight": 2 }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 65], [1, 34], [2, 1] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 },
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 55 },
+            { "Item": "Tier2Mats", "Weight": 40 },
+            { "Item": "Tier3Mats", "Weight": 5 }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 50], [1, 48], [2, 2] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 },
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 35 },
+            { "Item": "Tier2Mats", "Weight": 55 },
+            { "Item": "Tier3Mats", "Weight": 10 }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 30], [1, 66], [2, 3], [3, 1] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 },
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 10 },
+            { "Item": "Tier2Mats", "Weight": 75 },
+            { "Item": "Tier3Mats", "Weight": 15 }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 10], [1, 84], [2, 4], [3, 2] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 },
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 80 },
+            { "Item": "Tier3Mats", "Weight": 20 }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 92], [2, 5], [3, 3] ],
           "Loot": [
-            { "Item": "Tier1Mats", "Weight": 1 },
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 75 },
+            { "Item": "Tier3Mats", "Weight": 25 }
           ]
         }
       ]
@@ -377,42 +431,51 @@
           "Level": 1,
           "Drops": [ [0, 75], [1, 24], [2, 1] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 50 },
+            { "Item": "Tier2Mats", "Weight": 47 },
+            { "Item": "Tier3Mats", "Weight": 3 }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 60], [1, 38], [2, 2] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 30 },
+            { "Item": "Tier2Mats", "Weight": 65 },
+            { "Item": "Tier3Mats", "Weight": 5 }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 45], [1, 51], [2, 3], [3, 1] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 10 },
+            { "Item": "Tier2Mats", "Weight": 80 },
+            { "Item": "Tier3Mats", "Weight": 20 }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 25], [1, 69], [2, 4], [3, 2] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 85 },
+            { "Item": "Tier3Mats", "Weight": 15 }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 5], [1, 87], [2, 5], [3, 3] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 80 },
+            { "Item": "Tier3Mats", "Weight": 20 }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 86], [2, 10], [3, 4] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 75 },
+            { "Item": "Tier3Mats", "Weight": 25 }
           ]
         }
       ]
@@ -426,48 +489,49 @@
           "Level": 1,
           "Drops": [ [0, 70], [1, 28], [2, 2] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 },
-			{ "Item": "Tier3Mats", "Weight": 1 }
+            { "Item": "Tier1Mats", "Weight": 25 },
+			{ "Item": "Tier2Mats", "Weight": 65 },
+			{ "Item": "Tier3Mats", "Weight": 10 }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 50], [1, 46], [2, 3], [3, 1] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 },
-			{ "Item": "Tier3Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 85 },
+			{ "Item": "Tier3Mats", "Weight": 15 }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 30], [1, 64], [2, 4], [3, 2] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 },
-			{ "Item": "Tier3Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 80 },
+			{ "Item": "Tier3Mats", "Weight": 20 }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 5], [1, 87], [2, 5], [3, 3] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 },
-			{ "Item": "Tier3Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 75 },
+			{ "Item": "Tier3Mats", "Weight": 25 }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 86], [2, 10], [3, 4] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 },
-			{ "Item": "Tier3Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 70 },
+			{ "Item": "Tier3Mats", "Weight": 30 }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 80], [2, 15], [3, 5] ],
           "Loot": [
-            { "Item": "Tier2Mats", "Weight": 1 },
-			{ "Item": "Tier3Mats", "Weight": 1 }
+            { "Item": "Tier2Mats", "Weight": 65 },
+			{ "Item": "Tier3Mats", "Weight": 35 }
           ]
         }
       ]
@@ -499,6 +563,12 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "Neck",
+      "RefObject": "Tier0Mob"
+    },
+    // Chicken
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "ChickenBoo",
       "RefObject": "Tier0Mob"
     },
 
@@ -670,6 +740,96 @@
       "Object": "GoblinArcher",
       "RefObject": "Tier5Mob"
     },
+    // Lava Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "LavaGolem_DoD",
+      "RefObject": "Tier5Mob"
+    },
+    // Fire Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_FireGolem",
+      "RefObject": "Tier5Mob"
+    },
+    // Ice Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "IceGolem_DoD",
+      "RefObject": "IceGolem"
+    },
+    // Ice Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_IceGolem",
+      "RefObject": "Tier5Mob"
+    },
+    // Obsidian Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "ObsidianGolem_DoD",
+      "RefObject": "Tier5Mob"
+    },
+    // Silver Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_SilverGolem",
+      "RefObject": "Tier5Mob"
+    },
+    // Black Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_BlackSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Brown Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_BrownSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Dark Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_DarkSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Forest Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_ForestSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Frigid Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_FrigidSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Frost Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_FrostSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Green Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_GreenSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Tan Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_TanSpider",
+      "RefObject": "Tier5Mob"
+    },
+    // Tree Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_TreeSpider",
+      "RefObject": "Tier5Mob"
+    },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Tier 6 Mobs (Fuling Berserker, Fuling Shaman)
@@ -691,6 +851,12 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "Abomination",
+      "RefObject": "Tier6Mob"
+    },
+    // Mother Dark Spider
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_MotherDarkSpider",
       "RefObject": "Tier6Mob"
     },
 
