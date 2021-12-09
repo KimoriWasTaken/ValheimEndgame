@@ -1,5 +1,7 @@
 *.rar
 *.exe
+*.dll
+*.png
 EpicLootVariations/
 PatchFromLastVersion/
 MonoBleedingEdge/
