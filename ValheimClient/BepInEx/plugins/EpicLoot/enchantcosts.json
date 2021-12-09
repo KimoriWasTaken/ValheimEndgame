@@ -199,81 +199,81 @@
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Magic",
       "Cost": [
-        { "Item": "ShardMagic",   "Amount": 2 },
-        { "Item": "DustMagic",    "Amount": 2 },
-        { "Item": "EssenceMagic", "Amount": 2 }
+        { "Item": "ShardMagic",   "Amount": 1 },
+        { "Item": "DustMagic",    "Amount": 1 },
+        { "Item": "EssenceMagic", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Rare",
       "Cost": [
-        { "Item": "ShardRare",   "Amount": 2 },
-        { "Item": "DustRare",    "Amount": 2 },
-        { "Item": "EssenceRare", "Amount": 2 }
+        { "Item": "ShardRare",   "Amount": 1 },
+        { "Item": "DustRare",    "Amount": 1 },
+        { "Item": "EssenceRare", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Epic",
       "Cost": [
-        { "Item": "ShardEpic",   "Amount": 2 },
-        { "Item": "DustEpic",    "Amount": 2 },
-        { "Item": "EssenceEpic", "Amount": 2 }
+        { "Item": "ShardEpic",   "Amount": 1 },
+        { "Item": "DustEpic",    "Amount": 1 },
+        { "Item": "EssenceEpic", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "OneHandedWeapon", "Bow", "TwoHandedWeapon", "Torch", "Tool" ],
       "Rarity": "Legendary",
       "Cost": [
-        { "Item": "ShardLegendary",   "Amount": 2 },
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "EssenceLegendary", "Amount": 2 }
+        { "Item": "ShardLegendary",   "Amount": 1 },
+        { "Item": "DustLegendary",    "Amount": 1 },
+        { "Item": "EssenceLegendary", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Magic",
       "Cost": [
-        { "Item": "ShardMagic",   "Amount": 2 },
-        { "Item": "DustMagic",    "Amount": 2 },
-        { "Item": "ReagentMagic", "Amount": 2 }
+        { "Item": "ShardMagic",   "Amount": 1 },
+        { "Item": "DustMagic",    "Amount": 1 },
+        { "Item": "ReagentMagic", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Rare",
       "Cost": [
-        { "Item": "ShardRare",   "Amount": 2 },
-        { "Item": "DustRare",    "Amount": 2 },
-        { "Item": "ReagentRare", "Amount": 2 }
+        { "Item": "ShardRare",   "Amount": 1 },
+        { "Item": "DustRare",    "Amount": 1 },
+        { "Item": "ReagentRare", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Epic",
       "Cost": [
-        { "Item": "ShardEpic",   "Amount": 2 },
-        { "Item": "DustEpic",    "Amount": 2 },
-        { "Item": "ReagentEpic", "Amount": 2 }
+        { "Item": "ShardEpic",   "Amount": 1 },
+        { "Item": "DustEpic",    "Amount": 1 },
+        { "Item": "ReagentEpic", "Amount": 1 }
       ]
     },
     {
       "ItemTypes" : [ "Shield", "Helmet", "Chest", "Legs", "Shoulder", "Utility" ],
       "Rarity": "Legendary",
       "Cost": [
-        { "Item": "ShardLegendary",   "Amount": 2 },
-        { "Item": "DustLegendary",    "Amount": 2 },
-        { "Item": "ReagentLegendary", "Amount": 2 }
+        { "Item": "ShardLegendary",   "Amount": 1 },
+        { "Item": "DustLegendary",    "Amount": 1 },
+        { "Item": "ReagentLegendary", "Amount": 1 }
       ]
     }
   ],
   "ReAugmentCosts" : [
-    { "Item": "Coins", "Amount": 5000 },
-    { "Item": "Coins", "Amount": 10000 },
-    { "Item": "Coins", "Amount": 15000 },
-    { "Item": "Coins", "Amount": 20000 },
-    { "Item": "Coins", "Amount": 25000 },
-    { "Item": "Coins", "Amount": 30000 }
+    { "Item": "Coins", "Amount": 500 },
+    { "Item": "Coins", "Amount": 1000 },
+    { "Item": "Coins", "Amount": 1500 },
+    { "Item": "Coins", "Amount": 2000 },
+    { "Item": "Coins", "Amount": 2500 },
+    { "Item": "Coins", "Amount": 3000 }
   ] 
 }
