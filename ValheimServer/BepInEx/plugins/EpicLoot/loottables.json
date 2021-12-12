@@ -125,7 +125,7 @@
         },
         {
           "Level": 2,
-          "Drops": [ [0, 95], [1, 5] ],
+          "Drops": [ [0, 95], [2, 5] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 95 },
             { "Item": "Tier1Mats", "Weight": 5 }
@@ -133,7 +133,7 @@
         },
         {
           "Level": 3,
-          "Drops": [ [0, 90], [1, 10] ],
+          "Drops": [ [0, 90], [2, 10] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 90 },
             { "Item": "Tier1Mats", "Weight": 10 }
@@ -141,7 +141,7 @@
         },
         {
           "Level": 4,
-          "Drops": [ [0, 80], [1, 20] ],
+          "Drops": [ [0, 80], [2, 20] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 80 },
             { "Item": "Tier1Mats", "Weight": 15 },
@@ -150,7 +150,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 70], [1, 30] ],
+          "Drops": [ [0, 70], [2, 30] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 70 },
             { "Item": "Tier1Mats", "Weight": 19 },
@@ -160,7 +160,7 @@
         },
         {
           "Level": 6,
-          "Drops": [ [0, 60], [1, 39], [2, 1] ],
+          "Drops": [ [0, 60], [2, 39], [4, 1] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 60 },
             { "Item": "Tier1Mats", "Weight": 20 },
@@ -177,7 +177,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [0, 95], [1, 5] ],
+          "Drops": [ [0, 95], [2, 5] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 75 },
             { "Item": "Tier1Mats", "Weight": 25 }
@@ -185,7 +185,7 @@
         },
         {
           "Level": 2,
-          "Drops": [ [0, 90], [1, 10] ],
+          "Drops": [ [0, 90], [2, 10] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 70 },
             { "Item": "Tier1Mats", "Weight": 29 },
@@ -194,7 +194,7 @@
         },
         {
           "Level": 3,
-          "Drops": [ [0, 85], [1, 15] ],
+          "Drops": [ [0, 85], [2, 15] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 63 },
             { "Item": "Tier1Mats", "Weight": 34 },
@@ -204,7 +204,7 @@
         },
         {
           "Level": 4,
-          "Drops": [ [0, 75], [1, 25] ],
+          "Drops": [ [0, 75], [2, 25] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 53 },
             { "Item": "Tier1Mats", "Weight": 40 },
@@ -214,7 +214,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 65], [1, 34], [2, 1] ],
+          "Drops": [ [0, 65], [2, 34], [4, 1] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 45 },
             { "Item": "Tier1Mats", "Weight": 43 },
@@ -224,7 +224,7 @@
         },
         {
           "Level": 6,
-          "Drops": [ [0, 55], [1, 43], [2, 2] ],
+          "Drops": [ [0, 55], [2, 43], [4, 2] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 35 },
             { "Item": "Tier1Mats", "Weight": 45 },
@@ -241,7 +241,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [0, 90], [1, 10] ],
+          "Drops": [ [0, 90], [2, 10] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 50 },
             { "Item": "Tier1Mats", "Weight": 47 },
@@ -251,7 +251,7 @@
         },
         {
           "Level": 2,
-          "Drops": [ [0, 80], [1, 20] ],
+          "Drops": [ [0, 80], [2, 20] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 40 },
             { "Item": "Tier1Mats", "Weight": 53 },
@@ -261,7 +261,7 @@
         },
         {
           "Level": 3,
-          "Drops": [ [0, 70], [1, 30] ],
+          "Drops": [ [0, 70], [2, 30] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 29 },
             { "Item": "Tier1Mats", "Weight": 59 },
@@ -271,7 +271,7 @@
         },
         {
           "Level": 4,
-          "Drops": [ [0, 55], [1, 44], [2, 1] ],
+          "Drops": [ [0, 55], [2, 44], [4, 1] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 15 },
             { "Item": "Tier1Mats", "Weight": 65 },
@@ -281,7 +281,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 40], [1, 58], [2, 2] ],
+          "Drops": [ [0, 40], [2, 58], [4, 2] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 70 },
             { "Item": "Tier2Mats", "Weight": 20 },
@@ -290,7 +290,7 @@
         },
         {
           "Level": 6,
-          "Drops": [ [0, 25], [1, 71], [2, 3], [3, 1] ],
+          "Drops": [ [0, 25], [2, 71], [4, 3], [6, 1] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 60 },
             { "Item": "Tier2Mats", "Weight": 25 },
@@ -306,7 +306,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [0, 85], [1, 15] ],
+          "Drops": [ [0, 85], [2, 15] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 24 },
             { "Item": "Tier1Mats", "Weight": 73 },
@@ -316,7 +316,7 @@
         },
         {
           "Level": 2,
-          "Drops": [ [0, 75], [1, 25] ],
+          "Drops": [ [0, 75], [2, 25] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 15 },
             { "Item": "Tier1Mats", "Weight": 78 },
@@ -326,7 +326,7 @@
         },
         {
           "Level": 3,
-          "Drops": [ [0, 65], [1, 34], [2, 1] ],
+          "Drops": [ [0, 65], [2, 34], [4, 1] ],
           "Loot": [
             { "Item": "Tier0Mats", "Weight": 5 },
             { "Item": "Tier1Mats", "Weight": 83 },
@@ -336,7 +336,7 @@
         },
         {
           "Level": 4,
-          "Drops": [ [0, 50], [1, 48], [2, 2] ],
+          "Drops": [ [0, 50], [2, 48], [4, 2] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 80 },
             { "Item": "Tier2Mats", "Weight": 15 },
@@ -345,7 +345,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 35], [1, 61], [2, 3], [3, 1] ],
+          "Drops": [ [0, 35], [2, 61], [4, 3], [6, 1] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 70 },
             { "Item": "Tier2Mats", "Weight": 20 },
@@ -354,7 +354,7 @@
         },
         {
           "Level": 6,
-          "Drops": [ [0, 20], [1, 74], [2, 4], [3, 2] ],
+          "Drops": [ [0, 20], [2, 74], [4, 4], [6, 2] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 60 },
             { "Item": "Tier2Mats", "Weight": 25 },
@@ -370,7 +370,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [0, 80], [1, 20] ],
+          "Drops": [ [0, 80], [2, 20] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 74 },
             { "Item": "Tier2Mats", "Weight": 24 },
@@ -379,7 +379,7 @@
         },
         {
           "Level": 2,
-          "Drops": [ [0, 65], [1, 34], [2, 1] ],
+          "Drops": [ [0, 65], [2, 34], [4, 1] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 55 },
             { "Item": "Tier2Mats", "Weight": 40 },
@@ -388,7 +388,7 @@
         },
         {
           "Level": 3,
-          "Drops": [ [0, 50], [1, 48], [2, 2] ],
+          "Drops": [ [0, 50], [2, 48], [4, 2] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 35 },
             { "Item": "Tier2Mats", "Weight": 55 },
@@ -397,7 +397,7 @@
         },
         {
           "Level": 4,
-          "Drops": [ [0, 30], [1, 66], [2, 3], [3, 1] ],
+          "Drops": [ [0, 30], [2, 66], [4, 3], [6, 1] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 10 },
             { "Item": "Tier2Mats", "Weight": 75 },
@@ -406,7 +406,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 10], [1, 84], [2, 4], [3, 2] ],
+          "Drops": [ [0, 10], [2, 84], [4, 4], [6, 2] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 80 },
             { "Item": "Tier3Mats", "Weight": 20 }
@@ -414,7 +414,7 @@
         },
         {
           "Level": 6,
-          "Drops": [ [0, 0], [1, 92], [2, 5], [3, 3] ],
+          "Drops": [ [0, 0], [2, 92], [4, 5], [6, 3] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 75 },
             { "Item": "Tier3Mats", "Weight": 25 }
@@ -429,7 +429,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [0, 75], [1, 24], [2, 1] ],
+          "Drops": [ [0, 75], [2, 24], [4, 1] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 50 },
             { "Item": "Tier2Mats", "Weight": 47 },
@@ -438,7 +438,7 @@
         },
         {
           "Level": 2,
-          "Drops": [ [0, 60], [1, 38], [2, 2] ],
+          "Drops": [ [0, 60], [2, 38], [4, 2] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 30 },
             { "Item": "Tier2Mats", "Weight": 65 },
@@ -447,7 +447,7 @@
         },
         {
           "Level": 3,
-          "Drops": [ [0, 45], [1, 51], [2, 3], [3, 1] ],
+          "Drops": [ [0, 45], [2, 51], [4, 3], [6, 1] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 10 },
             { "Item": "Tier2Mats", "Weight": 80 },
@@ -456,7 +456,7 @@
         },
         {
           "Level": 4,
-          "Drops": [ [0, 25], [1, 69], [2, 4], [3, 2] ],
+          "Drops": [ [0, 25], [2, 69], [4, 4], [6, 2] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 85 },
             { "Item": "Tier3Mats", "Weight": 15 }
@@ -464,7 +464,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 5], [1, 87], [2, 5], [3, 3] ],
+          "Drops": [ [0, 5], [2, 87], [4, 5], [6, 3] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 80 },
             { "Item": "Tier3Mats", "Weight": 20 }
@@ -472,7 +472,7 @@
         },
         {
           "Level": 6,
-          "Drops": [ [0, 0], [1, 86], [2, 10], [3, 4] ],
+          "Drops": [ [0, 0], [2, 86], [4, 10], [6, 4] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 75 },
             { "Item": "Tier3Mats", "Weight": 25 }
@@ -487,7 +487,7 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [0, 70], [1, 28], [2, 2] ],
+          "Drops": [ [0, 70], [2, 28], [4, 2] ],
           "Loot": [
             { "Item": "Tier1Mats", "Weight": 25 },
 			{ "Item": "Tier2Mats", "Weight": 65 },
@@ -496,7 +496,7 @@
         },
         {
           "Level": 2,
-          "Drops": [ [0, 50], [1, 46], [2, 3], [3, 1] ],
+          "Drops": [ [0, 50], [2, 46], [4, 3], [6, 1] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 85 },
 			{ "Item": "Tier3Mats", "Weight": 15 }
@@ -504,7 +504,7 @@
         },
         {
           "Level": 3,
-          "Drops": [ [0, 30], [1, 64], [2, 4], [3, 2] ],
+          "Drops": [ [0, 30], [2, 64], [4, 4], [6, 2] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 80 },
 			{ "Item": "Tier3Mats", "Weight": 20 }
@@ -512,7 +512,7 @@
         },
         {
           "Level": 4,
-          "Drops": [ [0, 5], [1, 87], [2, 5], [3, 3] ],
+          "Drops": [ [0, 5], [2, 87], [4, 5], [6, 3] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 75 },
 			{ "Item": "Tier3Mats", "Weight": 25 }
@@ -520,7 +520,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 0], [1, 86], [2, 10], [3, 4] ],
+          "Drops": [ [0, 0], [2, 86], [4, 10], [6, 4] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 70 },
 			{ "Item": "Tier3Mats", "Weight": 30 }
@@ -528,7 +528,7 @@
         },
         {
           "Level": 6,
-          "Drops": [ [0, 0], [1, 80], [2, 15], [3, 5] ],
+          "Drops": [ [0, 0], [2, 80], [4, 15], [6, 5] ],
           "Loot": [
             { "Item": "Tier2Mats", "Weight": 65 },
 			{ "Item": "Tier3Mats", "Weight": 35 }
@@ -830,6 +830,42 @@
       "Object": "RRRM_TreeSpider",
       "RefObject": "Tier5Mob"
     },
+	// Svartalfr
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_Svartalfr",
+      "RefObject": "Tier5Mob"
+    },
+	// Svartalfr Archer
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_SvartalfrArcher",
+      "RefObject": "Tier5Mob"
+    },
+	// Svartalfr Brigade
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_SvartalfrBrigade",
+      "RefObject": "Tier5Mob"
+    },
+	// Svartalfr Heavy
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_SvartalfrHeavy",
+      "RefObject": "Tier5Mob"
+    },
+	// Svartalfr Mage
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_SvartalfrMage",
+      "RefObject": "Tier5Mob"
+    },
+	// Svartalfr Queen
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_SvartalfrQueen",
+      "RefObject": "Tier5Mob"
+    },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Tier 6 Mobs (Fuling Berserker, Fuling Shaman)
@@ -857,6 +893,12 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_MotherDarkSpider",
+      "RefObject": "Tier6Mob"
+    },
+    // Dark Protector
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_DarkProtector",
       "RefObject": "Tier6Mob"
     },
 
