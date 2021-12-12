@@ -62,7 +62,7 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 ## To-Do List:
 #### High Priority:
 ⚠️ Fix Desyncs
-   - Current Plugin works but Terrain near Spawn-Stones reset themselves sometimes
+   - Current Plugin works but Terrain near Spawn-Stones resets itself sometimes
 
 ❌ Greatswords Stamina Numbers are higher than expected
    - They're missing a modifier somewhere
@@ -80,7 +80,7 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 ⚠️ Economy balancing
    - Find the right balance between Drops, Enchant/Augment costs and the Trader
 
-⚠️ Valheim Legends balancing
+✔️ Valheim Legends balancing
    - Damage seems minimal at first and overpowered once leveled
    - Especially Casters seem to need a lot of attention
 
@@ -98,8 +98,9 @@ If there's none, delete your `BepInEx` folder and replace it with the one from l
 
 
 ## Known Issues:
-- Trader sells you Items that are waaaaay ahead
-- In rare instances dying seems to decrease performance and spams an error that is being investigated
+- Featherfall enchantment causes a heavy performance decrease upon dying
+   - You can fix this by re-logging or augmenting and restarting your game
+   - This is an error in EpicLoots code
 - Terrain near spawn stones gets reset sometimes
    - You can fix this by sending the host (the first person that entered the area near the stones) away through a portal or a re-log
    - This is an error in Valheims code which gets enhanced by us trying to fix desyncs
